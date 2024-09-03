@@ -11,13 +11,11 @@
 #
 ###############################################################
 
+# start the IPython session here:
+# C:\Users\GRowell\bb-validate\PartOne\src>
 
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
-
-
-
-df = pd.read_csv("periods_events.csv")
+df = pd.read_csv("tbl_TweetyEventObservers.csv")
 
