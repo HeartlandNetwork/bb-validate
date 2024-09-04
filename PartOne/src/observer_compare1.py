@@ -4,8 +4,8 @@
 ###############################################################
 #
 #   observer_compare1.py
-#   Purpose is to load and do initial comparisons
-#   between observer data from MS Access and SQL Server
+#   Load and compare observer data through 2014
+#   between  MS Access and SQL Server
 #
 #   Gareth Rowell - 20240903
 #
@@ -17,5 +17,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("tbl_TweetyEventObservers.csv")
+df_acc = pd.read_csv("tbl_TweetyEventObservers.csv")
+df_sql = pd.read_csv(
 
