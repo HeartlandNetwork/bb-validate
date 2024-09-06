@@ -50,29 +50,18 @@ df_sql = df_sql[df_sql['ObsInits'].notnull()]
 df_acc = df_acc.drop_duplicates(subset=['EventID', 'ObsInits'], keep='last')
 df_sql = df_sql.drop_duplicates(subset=['EventID', 'ObsInits'], keep='last')
 
+df_sql.count()
+
 # filter out years 2014 and earlier from SQL data
 
 df_sql['SampleYear'] = df_sql['EventID'].str.slice(4,8)
-
-# problems converting to numeric
-# there's a sample year with value '023J'
-
-#df_sql['SampleYear'].unique() 
-
-# caused by what EventID
-
-#unique_values = df_sql['EventID'].unique()
-#print(unique_values)
-
-#  ValueError: Unable to parse string "023J" at position 6752
-
-
-# This next step will fail if there are any problems with EventID format
-
+# This next step will fail if there are any problems 
+# with EventID format in the SQL data
 df_sql['SampleYear'] = pd.to_numeric(df_sql['SampleYear'])
-
-
 df_sql = df_sql[df_sql['SampleYear'] < 2015]
+
+df_sql.count()
+
 
 # remove SampleYear
 
@@ -103,37 +92,53 @@ df_acc
 
 df_acc_lj = df_acc.merge(df_sql, on='EventID', how='left', suffixes=('_left', '_right'))
 
-print(df_acc_lj)
+df_acc_lj.head()
+
+df_acc_lj.count()
+
 
 # This shows that there were some EventIDs with obsinits not occuring in df_sql
 # Let's filter for only the NaNs
 
- df_acc_lj_nas = df_acc_lj[df_acc_lj['ObsInit_right'].isna()]
+df_acc_lj = df_acc_lj[df_acc_lj['ObsInits_right'].isnull()]
 
-print(df_result)
+df_acc_lj.head()
 
-# Filter rows where column 'A' is NaN
-filtered_df = df[df['A'].isna()]
-
-print(filtered_df)
+df_acc_lj.count()
 
 
 
 # Looking at the swapped out join (df_sql on the left)
+# We would expect all the df_sql rows (filtered < 2015) to match
+# And the count after filtering left join for nulls is zero so that
+# expectation is met.
 
-result = df_sql.merge(df_acc, on='EventID', how='left', suffixes=('_left', '_right'))
+df_sql_lj = df_sql.merge(df_acc, on='EventID', how='left', suffixes=('_left', '_right'))
 
-print(result)
+df_sql_lj.head()
 
-# All of the df_sql EventIDs show up in the df_acc data (there are no NaNs in the 
-# right ObsInit column
+df_sql_lj.count()
+
+df_sql_lj = df_sql_lj[df_sql_lj['ObsInits_right'].isnull()] 
+
+df_sql_lj.head()
+
+df_sql_lj.count()
 
 
+# What years had missing observer initials in the final set? 
+# These should be 2014, 2013, 2012, 2011, and 2010
 
+df_acc_lj
 
+df_acc_lj['SampleYear'] = df_acc_lj['EventID'].str.slice(4,8)
 
+ df_acc_lj['SampleYear'].unique()
+ 
+ df_acc_lj.groupby
+ 
 
-
+df.groupby(['col1','col2']).size()
 
 
 
