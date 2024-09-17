@@ -58,6 +58,9 @@ df_sql['SampleYear'] = df_sql['EventID'].str.slice(4,8)
 # This next step will fail if there are any problems 
 # with EventID format in the SQL data
 df_sql['SampleYear'] = pd.to_numeric(df_sql['SampleYear'])
+
+df_sql.groupby(['SampleYear']).size()
+
 df_sql = df_sql[df_sql['SampleYear'] < 2015]
 
 df_sql.count()
@@ -133,9 +136,9 @@ df_acc_lj
 
 df_acc_lj['SampleYear'] = df_acc_lj['EventID'].str.slice(4,8)
 
- df_acc_lj['SampleYear'].unique()
+df_acc_lj['SampleYear'].unique()
  
- df_acc_lj.groupby
+df_acc_lj.groupby(['SampleYear']).size()
  
 
 df.groupby(['col1','col2']).size()
