@@ -136,9 +136,7 @@ df_sql_lj.count()
 df_acc_lj
 
 df_acc_lj['SampleYear'] = df_acc_lj['EventID'].str.slice(4,8)
-
 df_acc_lj['SampleYear'].unique()
- 
 df_acc_lj.groupby(['SampleYear']).size()
  
 
