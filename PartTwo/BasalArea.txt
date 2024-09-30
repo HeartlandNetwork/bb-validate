@@ -1,0 +1,2056 @@
+ParkUnit	Plot	SubPlot	EventDate	CanopyType	CanopyCount
+Agate Fossil Beds	AGFO51	1	6/5/2003	Hardwood	2
+Agate Fossil Beds	AGFO51	3	6/5/2003	Hardwood	1
+Agate Fossil Beds	AGFO51	4	6/8/2006	Hardwood	1
+Arkansas Post	ARPO1	1	6/5/2007	Hardwood	9
+Arkansas Post	ARPO1	1	6/8/2011	Hardwood	9
+Arkansas Post	ARPO1	1	5/18/2015	Hardwood	7
+Arkansas Post	ARPO1	1	5/21/2019	Hardwood	5
+Arkansas Post	ARPO10	1	6/7/2007	Hardwood	2
+Arkansas Post	ARPO10	1	6/7/2011	Hardwood	5
+Arkansas Post	ARPO10	1	5/19/2015	Hardwood	6
+Arkansas Post	ARPO10	1	5/20/2019	Hardwood	6
+Arkansas Post	ARPO12	1	6/5/2007	Hardwood	7
+Arkansas Post	ARPO12	1	6/8/2011	Hardwood	15
+Arkansas Post	ARPO12	1	5/18/2015	Hardwood	7
+Arkansas Post	ARPO12	1	5/21/2019	Hardwood	7
+Arkansas Post	ARPO13	1	6/5/2007	Hardwood	7
+Arkansas Post	ARPO13	1	6/8/2011	Hardwood	14
+Arkansas Post	ARPO13	1	5/18/2015	Hardwood	6
+Arkansas Post	ARPO13	1	5/21/2019	Hardwood	7
+Arkansas Post	ARPO14	1	6/6/2007	Hardwood	10
+Arkansas Post	ARPO14	1	6/8/2011	Hardwood	10
+Arkansas Post	ARPO14	1	5/18/2015	Hardwood	7
+Arkansas Post	ARPO14	1	5/21/2019	Hardwood	7
+Arkansas Post	ARPO15	1	6/6/2007	Hardwood	3
+Arkansas Post	ARPO15	1	6/8/2011	Hardwood	7
+Arkansas Post	ARPO15	1	5/18/2015	Hardwood	3
+Arkansas Post	ARPO15	1	5/21/2019	Hardwood	6
+Arkansas Post	ARPO16	1	6/5/2007	Hardwood	16
+Arkansas Post	ARPO16	1	6/8/2011	Hardwood	15
+Arkansas Post	ARPO16	1	5/18/2015	Hardwood	4
+Arkansas Post	ARPO16	1	5/21/2019	Hardwood	11
+Arkansas Post	ARPO17	1	6/5/2007	Hardwood	9
+Arkansas Post	ARPO17	1	6/8/2011	Hardwood	12
+Arkansas Post	ARPO17	1	5/18/2015	Hardwood	6
+Arkansas Post	ARPO17	1	5/21/2019	Hardwood	9
+Arkansas Post	ARPO18	1	6/6/2007	Hardwood	1
+Arkansas Post	ARPO18	1	6/8/2011	Hardwood	9
+Arkansas Post	ARPO18	1	5/18/2015	Hardwood	4
+Arkansas Post	ARPO18	1	5/20/2019	Hardwood	10
+Arkansas Post	ARPO19	1	6/6/2007	Conifer	1
+Arkansas Post	ARPO19	1	6/6/2007	Hardwood	11
+Arkansas Post	ARPO19	1	6/8/2011	Conifer	2
+Arkansas Post	ARPO19	1	6/8/2011	Hardwood	11
+Arkansas Post	ARPO19	1	5/18/2015	Hardwood	6
+Arkansas Post	ARPO19	1	5/21/2019	Conifer	1
+Arkansas Post	ARPO19	1	5/21/2019	Hardwood	15
+Arkansas Post	ARPO2	1	6/5/2007	Conifer	3
+Arkansas Post	ARPO2	1	6/5/2007	Hardwood	6
+Arkansas Post	ARPO2	1	6/8/2011	Conifer	2
+Arkansas Post	ARPO2	1	6/8/2011	Hardwood	10
+Arkansas Post	ARPO2	1	5/18/2015	Hardwood	4
+Arkansas Post	ARPO2	1	5/21/2019	Conifer	2
+Arkansas Post	ARPO2	1	5/21/2019	Hardwood	8
+Arkansas Post	ARPO20	1	6/6/2007	Hardwood	5
+Arkansas Post	ARPO20	1	6/8/2011	Hardwood	9
+Arkansas Post	ARPO20	1	5/18/2015	Hardwood	5
+Arkansas Post	ARPO20	1	5/21/2019	Hardwood	6
+Arkansas Post	ARPO21	1	5/18/2015	Hardwood	3
+Arkansas Post	ARPO21	1	5/20/2019	Hardwood	3
+Arkansas Post	ARPO22	1	6/5/2007	Hardwood	8
+Arkansas Post	ARPO22	1	6/8/2011	Conifer	4
+Arkansas Post	ARPO22	1	6/8/2011	Hardwood	7
+Arkansas Post	ARPO22	1	5/18/2015	Conifer	3
+Arkansas Post	ARPO22	1	5/18/2015	Hardwood	4
+Arkansas Post	ARPO22	1	5/21/2019	Hardwood	10
+Arkansas Post	ARPO23	1	6/6/2007	Conifer	3
+Arkansas Post	ARPO23	1	6/6/2007	Hardwood	8
+Arkansas Post	ARPO23	1	6/8/2011	Conifer	7
+Arkansas Post	ARPO23	1	6/8/2011	Hardwood	5
+Arkansas Post	ARPO23	1	5/18/2015	Conifer	3
+Arkansas Post	ARPO23	1	5/18/2015	Hardwood	1
+Arkansas Post	ARPO23	1	5/20/2019	Conifer	6
+Arkansas Post	ARPO23	1	5/20/2019	Hardwood	3
+Arkansas Post	ARPO24	1	6/5/2007	Hardwood	6
+Arkansas Post	ARPO24	1	6/8/2011	Hardwood	8
+Arkansas Post	ARPO24	1	5/18/2015	Hardwood	8
+Arkansas Post	ARPO24	1	5/21/2019	Hardwood	10
+Arkansas Post	ARPO25	1	6/6/2007	Hardwood	3
+Arkansas Post	ARPO25	1	6/8/2011	Conifer	2
+Arkansas Post	ARPO25	1	6/8/2011	Hardwood	4
+Arkansas Post	ARPO25	1	5/18/2015	Hardwood	2
+Arkansas Post	ARPO25	1	5/20/2019	Hardwood	5
+Arkansas Post	ARPO26	1	6/5/2007	Hardwood	3
+Arkansas Post	ARPO26	1	6/7/2011	Conifer	2
+Arkansas Post	ARPO26	1	6/7/2011	Hardwood	3
+Arkansas Post	ARPO26	1	5/18/2015	Conifer	1
+Arkansas Post	ARPO26	1	5/18/2015	Hardwood	2
+Arkansas Post	ARPO26	1	5/20/2019	Hardwood	3
+Arkansas Post	ARPO27	1	6/5/2007	Hardwood	11
+Arkansas Post	ARPO27	1	6/7/2011	Hardwood	13
+Arkansas Post	ARPO27	1	5/18/2015	Hardwood	6
+Arkansas Post	ARPO27	1	5/20/2019	Hardwood	10
+Arkansas Post	ARPO28	1	6/7/2007	Hardwood	7
+Arkansas Post	ARPO28	1	5/19/2015	Hardwood	7
+Arkansas Post	ARPO3	1	6/5/2007	Hardwood	11
+Arkansas Post	ARPO3	1	6/8/2011	Hardwood	6
+Arkansas Post	ARPO3	1	5/18/2015	Hardwood	3
+Arkansas Post	ARPO3	1	5/21/2019	Hardwood	9
+Arkansas Post	ARPO30	1	6/7/2007	Hardwood	11
+Arkansas Post	ARPO30	1	6/7/2011	Hardwood	16
+Arkansas Post	ARPO30	1	5/19/2015	Hardwood	10
+Arkansas Post	ARPO30	1	5/20/2019	Hardwood	11
+Arkansas Post	ARPO36	1	6/6/2007	Conifer	1
+Arkansas Post	ARPO36	1	6/6/2007	Hardwood	16
+Arkansas Post	ARPO36	1	5/19/2015	Hardwood	12
+Arkansas Post	ARPO4	1	6/5/2007	Hardwood	2
+Arkansas Post	ARPO4	1	6/8/2011	Hardwood	5
+Arkansas Post	ARPO4	1	5/18/2015	Hardwood	5
+Arkansas Post	ARPO4	1	5/21/2019	Hardwood	10
+Arkansas Post	ARPO5	1	6/5/2007	Hardwood	8
+Arkansas Post	ARPO5	1	6/7/2011	Hardwood	16
+Arkansas Post	ARPO5	1	5/18/2015	Hardwood	7
+Arkansas Post	ARPO5	1	5/21/2019	Hardwood	13
+Arkansas Post	ARPO7	1	6/7/2007	Hardwood	14
+Arkansas Post	ARPO7	1	6/7/2011	Hardwood	16
+Arkansas Post	ARPO7	1	5/19/2015	Hardwood	10
+Arkansas Post	ARPO7	1	5/20/2019	Hardwood	13
+Arkansas Post	ARPO9	1	6/7/2007	Hardwood	9
+Arkansas Post	ARPO9	1	6/7/2011	Hardwood	11
+Arkansas Post	ARPO9	1	5/19/2015	Hardwood	7
+Arkansas Post	ARPO9	1	5/20/2019	Hardwood	13
+Effigy Mounds	EFMO1	1	5/24/2017	Hardwood	7
+Effigy Mounds	EFMO1	1	5/24/2017	Total	7
+Effigy Mounds	EFMO1	1	5/25/2022	Hardwood	4
+Effigy Mounds	EFMO1	1	5/29/2013	Hardwood	9
+Effigy Mounds	EFMO12	1	6/1/2009	Hardwood	7
+Effigy Mounds	EFMO12	1	5/25/2017	Hardwood	7
+Effigy Mounds	EFMO12	1	5/25/2017	Total	7
+Effigy Mounds	EFMO12	1	5/26/2022	Hardwood	13
+Effigy Mounds	EFMO12	1	5/31/2013	Hardwood	3
+Effigy Mounds	EFMO13	1	6/1/2009	Hardwood	8
+Effigy Mounds	EFMO14	1	5/31/2009	Hardwood	9
+Effigy Mounds	EFMO15	1	5/24/2017	Hardwood	5
+Effigy Mounds	EFMO15	1	5/24/2017	Total	5
+Effigy Mounds	EFMO15	1	5/24/2022	Hardwood	5
+Effigy Mounds	EFMO15	1	5/29/2009	Hardwood	11
+Effigy Mounds	EFMO16	1	5/23/2022	Hardwood	7
+Effigy Mounds	EFMO16	1	5/24/2017	Hardwood	7
+Effigy Mounds	EFMO16	1	5/24/2017	Total	7
+Effigy Mounds	EFMO16	1	5/29/2009	Hardwood	9
+Effigy Mounds	EFMO16	1	5/30/2013	Hardwood	5
+Effigy Mounds	EFMO17	1	5/24/2017	Hardwood	8
+Effigy Mounds	EFMO17	1	5/24/2017	Total	8
+Effigy Mounds	EFMO17	1	5/25/2022	Hardwood	9
+Effigy Mounds	EFMO17	1	5/29/2009	Hardwood	19
+Effigy Mounds	EFMO17	1	5/30/2013	Hardwood	5
+Effigy Mounds	EFMO18	1	5/24/2017	Hardwood	8
+Effigy Mounds	EFMO18	1	5/24/2017	Total	8
+Effigy Mounds	EFMO18	1	5/26/2022	Hardwood	8
+Effigy Mounds	EFMO18	1	5/31/2009	Hardwood	6
+Effigy Mounds	EFMO18	1	5/31/2013	Hardwood	2
+Effigy Mounds	EFMO19	1	5/26/2022	Hardwood	5
+Effigy Mounds	EFMO19	1	5/31/2009	Hardwood	4
+Effigy Mounds	EFMO2	1	5/24/2017	Hardwood	8
+Effigy Mounds	EFMO2	1	5/24/2017	Total	8
+Effigy Mounds	EFMO2	1	5/25/2022	Hardwood	6
+Effigy Mounds	EFMO2	1	5/29/2009	Hardwood	13
+Effigy Mounds	EFMO2	1	5/29/2013	Hardwood	6
+Effigy Mounds	EFMO22	1	5/24/2017	Hardwood	6
+Effigy Mounds	EFMO22	1	5/24/2017	Total	6
+Effigy Mounds	EFMO22	1	5/31/2009	Hardwood	8
+Effigy Mounds	EFMO24	1	5/24/2017	Hardwood	8
+Effigy Mounds	EFMO24	1	5/24/2017	Total	8
+Effigy Mounds	EFMO24	1	5/25/2022	Hardwood	7
+Effigy Mounds	EFMO24	1	5/29/2009	Hardwood	13
+Effigy Mounds	EFMO24	1	5/30/2013	Hardwood	5
+Effigy Mounds	EFMO25	1	5/24/2017	Hardwood	16
+Effigy Mounds	EFMO25	1	5/24/2017	Total	16
+Effigy Mounds	EFMO25	1	5/25/2022	Hardwood	16
+Effigy Mounds	EFMO25	1	5/29/2009	Hardwood	12
+Effigy Mounds	EFMO25	1	5/30/2013	Hardwood	6
+Effigy Mounds	EFMO26	1	5/24/2017	Hardwood	9
+Effigy Mounds	EFMO26	1	5/24/2017	Total	9
+Effigy Mounds	EFMO26	1	5/26/2022	Hardwood	9
+Effigy Mounds	EFMO26	1	5/31/2009	Hardwood	18
+Effigy Mounds	EFMO26	1	5/31/2013	Hardwood	2
+Effigy Mounds	EFMO27	1	5/24/2017	Hardwood	2
+Effigy Mounds	EFMO27	1	5/24/2017	Total	2
+Effigy Mounds	EFMO27	1	5/26/2022	Hardwood	4
+Effigy Mounds	EFMO27	1	5/31/2009	Hardwood	1
+Effigy Mounds	EFMO3	1	5/24/2017	Total	0
+Effigy Mounds	EFMO33	1	5/24/2017	Hardwood	8
+Effigy Mounds	EFMO33	1	5/24/2017	Total	8
+Effigy Mounds	EFMO33	1	5/26/2022	Hardwood	18
+Effigy Mounds	EFMO33	1	5/31/2009	Hardwood	7
+Effigy Mounds	EFMO33	1	5/31/2013	Hardwood	7
+Effigy Mounds	EFMO34	1	5/24/2017	Hardwood	14
+Effigy Mounds	EFMO34	1	5/24/2017	Total	14
+Effigy Mounds	EFMO34	1	5/26/2022	Hardwood	13
+Effigy Mounds	EFMO34	1	5/31/2009	Hardwood	12
+Effigy Mounds	EFMO37	1	5/24/2017	Hardwood	7
+Effigy Mounds	EFMO37	1	5/24/2017	Total	7
+Effigy Mounds	EFMO37	1	5/26/2022	Hardwood	8
+Effigy Mounds	EFMO37	1	5/30/2009	Hardwood	12
+Effigy Mounds	EFMO38	1	5/24/2022	Hardwood	17
+Effigy Mounds	EFMO38	1	5/25/2017	Hardwood	9
+Effigy Mounds	EFMO38	1	5/25/2017	Total	9
+Effigy Mounds	EFMO38	1	5/30/2009	Hardwood	15
+Effigy Mounds	EFMO39	1	5/23/2017	Hardwood	7
+Effigy Mounds	EFMO39	1	5/23/2017	Total	7
+Effigy Mounds	EFMO39	1	5/26/2022	Hardwood	10
+Effigy Mounds	EFMO4	1	6/1/2009	Hardwood	10
+Effigy Mounds	EFMO4	1	5/24/2017	Hardwood	11
+Effigy Mounds	EFMO4	1	5/24/2017	Total	11
+Effigy Mounds	EFMO4	1	5/26/2022	Hardwood	14
+Effigy Mounds	EFMO4	1	5/31/2013	Hardwood	6
+Effigy Mounds	EFMO40	1	5/23/2017	Hardwood	6
+Effigy Mounds	EFMO40	1	5/23/2017	Total	6
+Effigy Mounds	EFMO40	1	5/26/2022	Hardwood	6
+Effigy Mounds	EFMO40	1	5/31/2009	Hardwood	5
+Effigy Mounds	EFMO41	1	5/25/2017	Hardwood	10
+Effigy Mounds	EFMO41	1	5/25/2017	Total	10
+Effigy Mounds	EFMO41	1	5/26/2022	Hardwood	10
+Effigy Mounds	EFMO41	1	5/30/2009	Hardwood	5
+Effigy Mounds	EFMO42	1	6/1/2013	Hardwood	3
+Effigy Mounds	EFMO42	1	5/24/2022	Hardwood	13
+Effigy Mounds	EFMO42	1	5/25/2017	Hardwood	9
+Effigy Mounds	EFMO42	1	5/25/2017	Total	9
+Effigy Mounds	EFMO42	1	5/29/2009	Hardwood	13
+Effigy Mounds	EFMO42	1	5/30/2009	Hardwood	14
+Effigy Mounds	EFMO43	1	6/2/2013	Hardwood	5
+Effigy Mounds	EFMO43	1	5/24/2022	Hardwood	11
+Effigy Mounds	EFMO43	1	5/25/2017	Hardwood	13
+Effigy Mounds	EFMO43	1	5/25/2017	Total	13
+Effigy Mounds	EFMO43	1	5/30/2009	Hardwood	7
+Effigy Mounds	EFMO44	1	6/2/2013	Hardwood	7
+Effigy Mounds	EFMO44	1	5/24/2022	Hardwood	10
+Effigy Mounds	EFMO44	1	5/25/2017	Hardwood	9
+Effigy Mounds	EFMO44	1	5/25/2017	Total	9
+Effigy Mounds	EFMO44	1	5/30/2009	Hardwood	10
+Effigy Mounds	EFMO45	1	5/23/2022	Hardwood	3
+Effigy Mounds	EFMO45	1	5/25/2017	Total	0
+Effigy Mounds	EFMO46	1	6/2/2013	Hardwood	5
+Effigy Mounds	EFMO46	1	5/23/2022	Hardwood	13
+Effigy Mounds	EFMO46	1	5/25/2017	Hardwood	12
+Effigy Mounds	EFMO46	1	5/25/2017	Total	12
+Effigy Mounds	EFMO46	1	5/30/2009	Hardwood	14
+Effigy Mounds	EFMO47	1	6/2/2013	Hardwood	4
+Effigy Mounds	EFMO47	1	5/23/2022	Hardwood	17
+Effigy Mounds	EFMO47	1	5/25/2017	Hardwood	9
+Effigy Mounds	EFMO47	1	5/25/2017	Total	9
+Effigy Mounds	EFMO47	1	5/30/2009	Hardwood	11
+Effigy Mounds	EFMO5	1	6/1/2009	Hardwood	7
+Effigy Mounds	EFMO5	1	5/24/2017	Hardwood	6
+Effigy Mounds	EFMO5	1	5/24/2017	Total	6
+Effigy Mounds	EFMO5	1	5/26/2022	Hardwood	6
+Effigy Mounds	EFMO5	1	5/31/2013	Hardwood	7
+Effigy Mounds	EFMO52	1	5/30/2009	Hardwood	12
+Effigy Mounds	EFMO6	1	5/24/2017	Hardwood	11
+Effigy Mounds	EFMO6	1	5/24/2017	Total	11
+Effigy Mounds	EFMO8	1	5/24/2017	Hardwood	3
+Effigy Mounds	EFMO8	1	5/24/2017	Total	3
+Effigy Mounds	EFMO8	1	5/25/2022	Hardwood	4
+Effigy Mounds	EFMO8	1	5/29/2009	Hardwood	7
+Effigy Mounds	EFMO8	1	5/29/2013	Hardwood	8
+Effigy Mounds	EFMO9	1	5/24/2017	Hardwood	9
+Effigy Mounds	EFMO9	1	5/24/2017	Total	9
+Effigy Mounds	EFMO9	1	5/25/2022	Hardwood	7
+Effigy Mounds	EFMO9	1	5/29/2009	Hardwood	14
+Effigy Mounds	EFMO9	1	5/29/2013	Hardwood	7
+George Washington Carver	GWCA1	1	6/6/2012	Hardwood	11
+George Washington Carver	GWCA1	1	6/12/2020	Conifer	0
+George Washington Carver	GWCA1	1	6/12/2020	Hardwood	9
+George Washington Carver	GWCA1	1	5/18/2016	Conifer	0
+George Washington Carver	GWCA1	1	5/18/2016	Hardwood	9
+George Washington Carver	GWCA1	1	5/18/2016	Total	9
+George Washington Carver	GWCA1	1	5/28/2008	Hardwood	6
+George Washington Carver	GWCA10	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA10	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA10	1	5/18/2016	Total	0
+George Washington Carver	GWCA11	1	6/6/2012	Hardwood	15
+George Washington Carver	GWCA11	1	6/12/2020	Conifer	0
+George Washington Carver	GWCA11	1	6/12/2020	Hardwood	9
+George Washington Carver	GWCA11	1	5/18/2016	Hardwood	10
+George Washington Carver	GWCA11	1	5/18/2016	Total	10
+George Washington Carver	GWCA11	1	5/28/2008	Hardwood	12
+George Washington Carver	GWCA12	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA12	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA12	1	5/18/2016	Total	0
+George Washington Carver	GWCA13	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA13	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA13	1	5/18/2016	Total	0
+George Washington Carver	GWCA14	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA14	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA14	1	5/18/2016	Total	0
+George Washington Carver	GWCA15	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA15	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA15	1	5/18/2016	Total	0
+George Washington Carver	GWCA16	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA16	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA16	1	5/18/2016	Total	0
+George Washington Carver	GWCA17	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA17	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA17	1	5/18/2016	Total	0
+George Washington Carver	GWCA18	1	6/5/2012	Hardwood	8
+George Washington Carver	GWCA18	1	6/12/2020	Conifer	0
+George Washington Carver	GWCA18	1	6/12/2020	Hardwood	8
+George Washington Carver	GWCA18	1	5/20/2016	Hardwood	10
+George Washington Carver	GWCA18	1	5/20/2016	Total	10
+George Washington Carver	GWCA18	1	5/28/2008	Hardwood	5
+George Washington Carver	GWCA19	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA19	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA19	1	5/18/2016	Total	0
+George Washington Carver	GWCA2	1	6/6/2012	Hardwood	9
+George Washington Carver	GWCA2	1	6/12/2020	Conifer	0
+George Washington Carver	GWCA2	1	6/12/2020	Hardwood	5
+George Washington Carver	GWCA2	1	5/18/2016	Conifer	0
+George Washington Carver	GWCA2	1	5/18/2016	Hardwood	3
+George Washington Carver	GWCA2	1	5/18/2016	Total	3
+George Washington Carver	GWCA20	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA20	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA20	1	5/18/2016	Total	0
+George Washington Carver	GWCA21	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA21	1	6/10/2020	Hardwood	3
+George Washington Carver	GWCA21	1	5/18/2016	Hardwood	7
+George Washington Carver	GWCA21	1	5/18/2016	Total	7
+George Washington Carver	GWCA21	1	5/28/2008	Hardwood	2
+George Washington Carver	GWCA22	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA22	1	6/10/2020	Hardwood	3
+George Washington Carver	GWCA22	1	5/18/2016	Hardwood	7
+George Washington Carver	GWCA22	1	5/18/2016	Total	7
+George Washington Carver	GWCA23	1	6/4/2012	Hardwood	18
+George Washington Carver	GWCA23	1	6/12/2020	Conifer	0
+George Washington Carver	GWCA23	1	6/12/2020	Hardwood	7
+George Washington Carver	GWCA23	1	5/20/2016	Hardwood	12
+George Washington Carver	GWCA23	1	5/20/2016	Total	12
+George Washington Carver	GWCA23	1	5/28/2008	Hardwood	10
+George Washington Carver	GWCA24	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA24	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA24	1	5/18/2016	Total	0
+George Washington Carver	GWCA25	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA25	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA25	1	5/18/2016	Total	0
+George Washington Carver	GWCA26	1	6/6/2012	Hardwood	11
+George Washington Carver	GWCA26	1	6/11/2020	Conifer	0
+George Washington Carver	GWCA26	1	6/11/2020	Hardwood	8
+George Washington Carver	GWCA26	1	5/18/2016	Hardwood	10
+George Washington Carver	GWCA26	1	5/18/2016	Total	10
+George Washington Carver	GWCA26	1	5/29/2008	Hardwood	14
+George Washington Carver	GWCA27	1	6/6/2012	Hardwood	12
+George Washington Carver	GWCA27	1	6/9/2016	Hardwood	8
+George Washington Carver	GWCA27	1	6/9/2016	Total	8
+George Washington Carver	GWCA27	1	6/11/2020	Conifer	0
+George Washington Carver	GWCA27	1	6/11/2020	Hardwood	13
+George Washington Carver	GWCA27	1	5/29/2008	Hardwood	7
+George Washington Carver	GWCA28	1	6/4/2012	Hardwood	9
+George Washington Carver	GWCA28	1	6/12/2020	Conifer	0
+George Washington Carver	GWCA28	1	6/12/2020	Hardwood	12
+George Washington Carver	GWCA28	1	5/20/2016	Hardwood	4
+George Washington Carver	GWCA28	1	5/20/2016	Total	4
+George Washington Carver	GWCA28	1	5/28/2008	Hardwood	8
+George Washington Carver	GWCA29	1	6/5/2012	Conifer	1
+George Washington Carver	GWCA29	1	6/5/2012	Hardwood	7
+George Washington Carver	GWCA29	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA29	1	6/10/2020	Hardwood	7
+George Washington Carver	GWCA29	1	5/20/2016	Hardwood	7
+George Washington Carver	GWCA29	1	5/20/2016	Total	7
+George Washington Carver	GWCA29	1	5/28/2008	Hardwood	3
+George Washington Carver	GWCA3	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA3	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA3	1	5/18/2016	Total	0
+George Washington Carver	GWCA30	1	6/5/2012	Hardwood	15
+George Washington Carver	GWCA30	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA30	1	6/10/2020	Hardwood	10
+George Washington Carver	GWCA30	1	5/20/2016	Hardwood	8
+George Washington Carver	GWCA30	1	5/20/2016	Total	8
+George Washington Carver	GWCA30	1	5/28/2008	Hardwood	7
+George Washington Carver	GWCA31	1	6/9/2020	Conifer	0
+George Washington Carver	GWCA31	1	6/9/2020	Hardwood	0
+George Washington Carver	GWCA31	1	5/18/2016	Total	0
+George Washington Carver	GWCA32	1	6/6/2012	Hardwood	3
+George Washington Carver	GWCA32	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA32	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA32	1	5/18/2016	Hardwood	1
+George Washington Carver	GWCA32	1	5/18/2016	Total	1
+George Washington Carver	GWCA33	1	6/6/2012	Hardwood	11
+George Washington Carver	GWCA33	1	6/11/2020	Conifer	0
+George Washington Carver	GWCA33	1	6/11/2020	Hardwood	13
+George Washington Carver	GWCA33	1	5/20/2016	Hardwood	12
+George Washington Carver	GWCA33	1	5/20/2016	Total	12
+George Washington Carver	GWCA33	1	5/29/2008	Hardwood	13
+George Washington Carver	GWCA34	1	6/4/2012	Hardwood	13
+George Washington Carver	GWCA34	1	6/11/2020	Conifer	0
+George Washington Carver	GWCA34	1	6/11/2020	Hardwood	7
+George Washington Carver	GWCA34	1	5/20/2016	Hardwood	10
+George Washington Carver	GWCA34	1	5/20/2016	Total	10
+George Washington Carver	GWCA34	1	5/27/2008	Hardwood	9
+George Washington Carver	GWCA35	1	6/4/2012	Hardwood	3
+George Washington Carver	GWCA35	1	6/11/2020	Conifer	0
+George Washington Carver	GWCA35	1	6/11/2020	Hardwood	6
+George Washington Carver	GWCA35	1	5/20/2016	Hardwood	2
+George Washington Carver	GWCA35	1	5/20/2016	Total	2
+George Washington Carver	GWCA35	1	5/27/2008	Hardwood	2
+George Washington Carver	GWCA36	1	6/9/2020	Conifer	0
+George Washington Carver	GWCA36	1	6/9/2020	Hardwood	0
+George Washington Carver	GWCA36	1	5/18/2016	Total	0
+George Washington Carver	GWCA37	1	6/6/2012	Hardwood	17
+George Washington Carver	GWCA37	1	6/11/2020	Conifer	0
+George Washington Carver	GWCA37	1	6/11/2020	Hardwood	17
+George Washington Carver	GWCA37	1	5/20/2016	Hardwood	13
+George Washington Carver	GWCA37	1	5/20/2016	Total	13
+George Washington Carver	GWCA37	1	5/29/2008	Hardwood	11
+George Washington Carver	GWCA38	1	6/4/2012	Hardwood	2
+George Washington Carver	GWCA38	1	6/9/2020	Conifer	0
+George Washington Carver	GWCA38	1	6/9/2020	Hardwood	1
+George Washington Carver	GWCA38	1	5/20/2016	Hardwood	2
+George Washington Carver	GWCA38	1	5/20/2016	Total	2
+George Washington Carver	GWCA39	1	6/4/2012	Hardwood	5
+George Washington Carver	GWCA39	1	6/11/2020	Conifer	0
+George Washington Carver	GWCA39	1	6/11/2020	Hardwood	6
+George Washington Carver	GWCA39	1	5/20/2016	Hardwood	6
+George Washington Carver	GWCA39	1	5/20/2016	Total	6
+George Washington Carver	GWCA39	1	5/27/2008	Hardwood	7
+George Washington Carver	GWCA4	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA4	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA4	1	5/18/2016	Total	0
+George Washington Carver	GWCA40	1	6/4/2012	Hardwood	4
+George Washington Carver	GWCA40	1	6/11/2020	Conifer	0
+George Washington Carver	GWCA40	1	6/11/2020	Hardwood	4
+George Washington Carver	GWCA40	1	5/20/2016	Hardwood	4
+George Washington Carver	GWCA40	1	5/20/2016	Total	4
+George Washington Carver	GWCA40	1	5/27/2008	Hardwood	3
+George Washington Carver	GWCA41	1	6/9/2020	Conifer	0
+George Washington Carver	GWCA41	1	6/9/2020	Hardwood	0
+George Washington Carver	GWCA41	1	5/20/2016	Total	0
+George Washington Carver	GWCA42	1	6/9/2020	Conifer	0
+George Washington Carver	GWCA42	1	6/9/2020	Hardwood	2
+George Washington Carver	GWCA42	1	5/18/2016	Hardwood	1
+George Washington Carver	GWCA42	1	5/18/2016	Total	1
+George Washington Carver	GWCA42	1	5/29/2008	Hardwood	1
+George Washington Carver	GWCA43	1	6/9/2020	Conifer	0
+George Washington Carver	GWCA43	1	6/9/2020	Hardwood	0
+George Washington Carver	GWCA43	1	5/18/2016	Total	0
+George Washington Carver	GWCA44	1	6/9/2020	Conifer	0
+George Washington Carver	GWCA44	1	6/9/2020	Hardwood	0
+George Washington Carver	GWCA44	1	5/20/2016	Total	0
+George Washington Carver	GWCA45	1	6/4/2012	Hardwood	1
+George Washington Carver	GWCA45	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA45	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA45	1	5/18/2016	Total	0
+George Washington Carver	GWCA46	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA46	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA46	1	5/18/2016	Total	0
+George Washington Carver	GWCA47	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA47	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA47	1	5/18/2016	Total	0
+George Washington Carver	GWCA48	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA48	1	6/8/2020	Hardwood	1
+George Washington Carver	GWCA48	1	5/18/2016	Total	0
+George Washington Carver	GWCA48	1	5/27/2008	Hardwood	1
+George Washington Carver	GWCA49	1	6/9/2020	Conifer	0
+George Washington Carver	GWCA49	1	6/9/2020	Hardwood	0
+George Washington Carver	GWCA49	1	5/18/2016	Total	0
+George Washington Carver	GWCA5	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA5	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA5	1	5/18/2016	Total	0
+George Washington Carver	GWCA50	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA50	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA50	1	5/18/2016	Total	0
+George Washington Carver	GWCA51	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA51	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA51	1	5/18/2016	Total	0
+George Washington Carver	GWCA52	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA52	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA52	1	5/18/2016	Total	0
+George Washington Carver	GWCA53	1	6/6/2012	Hardwood	14
+George Washington Carver	GWCA53	1	6/11/2020	Conifer	0
+George Washington Carver	GWCA53	1	6/11/2020	Hardwood	7
+George Washington Carver	GWCA53	1	5/18/2016	Conifer	1
+George Washington Carver	GWCA53	1	5/18/2016	Hardwood	11
+George Washington Carver	GWCA53	1	5/18/2016	Total	12
+George Washington Carver	GWCA53	1	5/29/2008	Hardwood	8
+George Washington Carver	GWCA54	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA54	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA54	1	5/18/2016	Total	0
+George Washington Carver	GWCA55	1	6/9/2020	Conifer	0
+George Washington Carver	GWCA55	1	6/9/2020	Hardwood	0
+George Washington Carver	GWCA55	1	5/18/2016	Total	0
+George Washington Carver	GWCA55	1	5/27/2008	Hardwood	4
+George Washington Carver	GWCA56	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA56	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA56	1	5/18/2016	Total	0
+George Washington Carver	GWCA57	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA57	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA57	1	5/18/2016	Total	0
+George Washington Carver	GWCA58	1	6/6/2012	Hardwood	7
+George Washington Carver	GWCA58	1	6/11/2020	Conifer	0
+George Washington Carver	GWCA58	1	6/11/2020	Hardwood	6
+George Washington Carver	GWCA58	1	5/18/2016	Hardwood	4
+George Washington Carver	GWCA58	1	5/18/2016	Total	4
+George Washington Carver	GWCA58	1	5/29/2008	Hardwood	10
+George Washington Carver	GWCA59	1	6/9/2020	Conifer	0
+George Washington Carver	GWCA59	1	6/9/2020	Hardwood	0
+George Washington Carver	GWCA59	1	5/18/2016	Total	0
+George Washington Carver	GWCA6	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA6	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA6	1	5/18/2016	Total	0
+George Washington Carver	GWCA60	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA60	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA60	1	5/18/2016	Total	0
+George Washington Carver	GWCA61	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA61	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA61	1	5/18/2016	Total	0
+George Washington Carver	GWCA62	1	6/6/2012	Hardwood	2
+George Washington Carver	GWCA62	1	6/11/2020	Conifer	0
+George Washington Carver	GWCA62	1	6/11/2020	Hardwood	2
+George Washington Carver	GWCA62	1	5/18/2016	Total	0
+George Washington Carver	GWCA62	1	5/29/2008	Hardwood	2
+George Washington Carver	GWCA63	1	6/9/2020	Conifer	0
+George Washington Carver	GWCA63	1	6/9/2020	Hardwood	0
+George Washington Carver	GWCA63	1	5/18/2016	Total	0
+George Washington Carver	GWCA64	1	6/9/2020	Conifer	0
+George Washington Carver	GWCA64	1	6/9/2020	Hardwood	0
+George Washington Carver	GWCA64	1	5/18/2016	Total	0
+George Washington Carver	GWCA65	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA65	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA65	1	5/18/2016	Total	0
+George Washington Carver	GWCA66	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA66	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA66	1	5/18/2016	Total	0
+George Washington Carver	GWCA67	1	6/4/2012	Hardwood	10
+George Washington Carver	GWCA67	1	6/11/2020	Conifer	0
+George Washington Carver	GWCA67	1	6/11/2020	Hardwood	1
+George Washington Carver	GWCA67	1	5/18/2016	Hardwood	2
+George Washington Carver	GWCA67	1	5/18/2016	Total	2
+George Washington Carver	GWCA67	1	5/27/2008	Hardwood	3
+George Washington Carver	GWCA68	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA68	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA68	1	5/18/2016	Total	0
+George Washington Carver	GWCA69	1	6/9/2020	Conifer	0
+George Washington Carver	GWCA69	1	6/9/2020	Hardwood	0
+George Washington Carver	GWCA69	1	5/18/2016	Total	0
+George Washington Carver	GWCA7	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA7	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA7	1	5/18/2016	Total	0
+George Washington Carver	GWCA70	1	6/8/2020	Conifer	0
+George Washington Carver	GWCA70	1	6/8/2020	Hardwood	0
+George Washington Carver	GWCA70	1	5/18/2016	Total	0
+George Washington Carver	GWCA8	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA8	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA8	1	5/18/2016	Total	0
+George Washington Carver	GWCA9	1	6/10/2020	Conifer	0
+George Washington Carver	GWCA9	1	6/10/2020	Hardwood	0
+George Washington Carver	GWCA9	1	5/18/2016	Total	0
+Herbert Hoover	HEHO1	1	5/22/2017	Total	0
+Herbert Hoover	HEHO10	1	5/22/2017	Total	0
+Herbert Hoover	HEHO11	1	5/22/2017	Total	0
+Herbert Hoover	HEHO12	1	5/22/2017	Total	0
+Herbert Hoover	HEHO13	1	5/22/2017	Total	0
+Herbert Hoover	HEHO14	1	5/22/2017	Total	0
+Herbert Hoover	HEHO15	1	5/22/2017	Total	0
+Herbert Hoover	HEHO15	1	5/27/2009	Hardwood	1
+Herbert Hoover	HEHO16	1	5/22/2017	Total	0
+Herbert Hoover	HEHO17	1	5/22/2017	Total	0
+Herbert Hoover	HEHO18	1	5/22/2017	Total	0
+Herbert Hoover	HEHO19	1	5/22/2017	Total	0
+Herbert Hoover	HEHO2	1	5/22/2017	Total	0
+Herbert Hoover	HEHO20	1	5/22/2017	Total	0
+Herbert Hoover	HEHO21	1	5/22/2017	Total	0
+Herbert Hoover	HEHO22	1	5/22/2017	Total	0
+Herbert Hoover	HEHO23	1	5/22/2017	Total	0
+Herbert Hoover	HEHO24	1	5/22/2017	Total	0
+Herbert Hoover	HEHO25	1	5/22/2017	Total	0
+Herbert Hoover	HEHO26	1	5/22/2017	Total	0
+Herbert Hoover	HEHO27	1	5/22/2017	Total	0
+Herbert Hoover	HEHO28	1	5/22/2017	Total	0
+Herbert Hoover	HEHO29	1	5/23/2017	Conifer	2
+Herbert Hoover	HEHO29	1	5/23/2017	Hardwood	3
+Herbert Hoover	HEHO29	1	5/23/2017	Total	5
+Herbert Hoover	HEHO29	1	5/27/2009	Conifer	1
+Herbert Hoover	HEHO29	1	5/27/2009	Hardwood	3
+Herbert Hoover	HEHO29	1	5/27/2022	Hardwood	3
+Herbert Hoover	HEHO3	1	5/22/2017	Total	0
+Herbert Hoover	HEHO30	1	5/23/2017	Hardwood	5
+Herbert Hoover	HEHO30	1	5/23/2017	Total	5
+Herbert Hoover	HEHO30	1	5/27/2009	Hardwood	5
+Herbert Hoover	HEHO30	1	5/27/2022	Hardwood	4
+Herbert Hoover	HEHO31	1	5/23/2017	Conifer	5
+Herbert Hoover	HEHO31	1	5/23/2017	Hardwood	3
+Herbert Hoover	HEHO31	1	5/23/2017	Total	8
+Herbert Hoover	HEHO31	1	5/27/2009	Conifer	8
+Herbert Hoover	HEHO31	1	5/27/2009	Hardwood	3
+Herbert Hoover	HEHO31	1	5/27/2022	Hardwood	9
+Herbert Hoover	HEHO31	1	5/28/2013	Conifer	5
+Herbert Hoover	HEHO31	1	5/28/2013	Hardwood	2
+Herbert Hoover	HEHO32	1	5/23/2017	Hardwood	4
+Herbert Hoover	HEHO32	1	5/23/2017	Total	4
+Herbert Hoover	HEHO32	1	5/27/2009	Hardwood	4
+Herbert Hoover	HEHO32	1	5/27/2022	Hardwood	4
+Herbert Hoover	HEHO33	1	5/23/2017	Total	0
+Herbert Hoover	HEHO34	1	5/23/2017	Total	0
+Herbert Hoover	HEHO35	1	5/23/2017	Hardwood	2
+Herbert Hoover	HEHO35	1	5/23/2017	Total	2
+Herbert Hoover	HEHO35	1	5/27/2009	Hardwood	3
+Herbert Hoover	HEHO35	1	5/27/2022	Hardwood	3
+Herbert Hoover	HEHO35	1	5/28/2013	Hardwood	3
+Herbert Hoover	HEHO36	1	5/23/2017	Hardwood	6
+Herbert Hoover	HEHO36	1	5/23/2017	Total	6
+Herbert Hoover	HEHO36	1	5/27/2009	Hardwood	4
+Herbert Hoover	HEHO36	1	5/27/2022	Hardwood	4
+Herbert Hoover	HEHO37	1	5/23/2017	Conifer	2
+Herbert Hoover	HEHO37	1	5/23/2017	Hardwood	1
+Herbert Hoover	HEHO37	1	5/23/2017	Total	3
+Herbert Hoover	HEHO37	1	5/27/2009	Hardwood	3
+Herbert Hoover	HEHO37	1	5/27/2022	Hardwood	2
+Herbert Hoover	HEHO38	1	5/22/2017	Hardwood	3
+Herbert Hoover	HEHO38	1	5/22/2017	Total	3
+Herbert Hoover	HEHO38	1	5/27/2009	Hardwood	3
+Herbert Hoover	HEHO38	1	5/27/2022	Hardwood	3
+Herbert Hoover	HEHO4	1	5/22/2017	Total	0
+Herbert Hoover	HEHO4	2	6/4/2005	Hardwood	1
+Herbert Hoover	HEHO4	2	6/4/2006	Hardwood	1
+Herbert Hoover	HEHO5	1	5/22/2017	Total	0
+Herbert Hoover	HEHO6	1	5/22/2017	Total	0
+Herbert Hoover	HEHO7	1	5/22/2017	Total	0
+Herbert Hoover	HEHO7	2	6/4/2005	Hardwood	3
+Herbert Hoover	HEHO7	2	6/4/2006	Hardwood	2
+Herbert Hoover	HEHO7	3	6/4/2006	Hardwood	1
+Herbert Hoover	HEHO8	1	5/22/2017	Total	0
+Herbert Hoover	HEHO9	1	5/22/2017	Total	0
+Homestead	HOME1	1	5/27/2017	Total	0
+Homestead	HOME10	1	5/27/2017	Total	0
+Homestead	HOME11	1	5/27/2017	Total	0
+Homestead	HOME12	1	5/27/2017	Total	0
+Homestead	HOME13	1	5/27/2017	Total	0
+Homestead	HOME14	1	5/27/2017	Total	0
+Homestead	HOME15	1	5/27/2017	Total	0
+Homestead	HOME16	1	5/27/2017	Total	0
+Homestead	HOME17	1	5/27/2017	Total	0
+Homestead	HOME18	1	5/27/2017	Total	0
+Homestead	HOME19	1	5/27/2017	Total	0
+Homestead	HOME2	1	5/27/2017	Total	0
+Homestead	HOME20	1	5/12/2009	Hardwood	1
+Homestead	HOME20	1	5/22/2022	Hardwood	1
+Homestead	HOME20	1	5/28/2017	Total	0
+Homestead	HOME21	1	5/27/2017	Total	0
+Homestead	HOME22	1	5/27/2017	Total	0
+Homestead	HOME23	1	5/28/2017	Total	0
+Homestead	HOME24	1	5/27/2017	Total	0
+Homestead	HOME25	1	5/27/2017	Total	0
+Homestead	HOME26	1	5/27/2017	Total	0
+Homestead	HOME27	1	5/12/2009	Hardwood	1
+Homestead	HOME27	1	5/22/2022	Hardwood	1
+Homestead	HOME27	1	5/28/2017	Hardwood	1
+Homestead	HOME27	1	5/28/2017	Total	1
+Homestead	HOME28	1	5/27/2017	Total	0
+Homestead	HOME29	1	5/27/2017	Total	0
+Homestead	HOME3	1	5/27/2017	Total	0
+Homestead	HOME30	1	5/27/2017	Total	0
+Homestead	HOME31	1	5/12/2009	Hardwood	10
+Homestead	HOME31	1	5/22/2022	Hardwood	16
+Homestead	HOME31	1	5/27/2017	Hardwood	12
+Homestead	HOME31	1	5/27/2017	Total	12
+Homestead	HOME32	1	5/13/2009	Hardwood	10
+Homestead	HOME32	1	5/21/2022	Hardwood	13
+Homestead	HOME32	1	5/28/2017	Hardwood	11
+Homestead	HOME32	1	5/28/2017	Total	11
+Homestead	HOME33	1	5/13/2009	Hardwood	8
+Homestead	HOME33	1	5/21/2022	Hardwood	10
+Homestead	HOME33	1	5/27/2017	Hardwood	18
+Homestead	HOME33	1	5/27/2017	Total	18
+Homestead	HOME35	1	5/13/2009	Hardwood	9
+Homestead	HOME35	1	5/22/2022	Hardwood	9
+Homestead	HOME35	1	5/27/2017	Hardwood	10
+Homestead	HOME35	1	5/27/2017	Total	10
+Homestead	HOME36	1	5/12/2009	Hardwood	10
+Homestead	HOME36	1	5/22/2022	Hardwood	12
+Homestead	HOME36	1	5/27/2017	Hardwood	11
+Homestead	HOME36	1	5/27/2017	Total	11
+Homestead	HOME37	1	5/12/2009	Hardwood	11
+Homestead	HOME37	1	5/14/2013	Hardwood	11
+Homestead	HOME37	1	5/22/2022	Hardwood	17
+Homestead	HOME37	1	5/27/2017	Hardwood	10
+Homestead	HOME37	1	5/27/2017	Total	10
+Homestead	HOME38	1	5/13/2009	Hardwood	2
+Homestead	HOME38	1	5/21/2022	Hardwood	5
+Homestead	HOME38	1	5/27/2017	Hardwood	5
+Homestead	HOME38	1	5/27/2017	Total	5
+Homestead	HOME39	1	5/12/2009	Hardwood	7
+Homestead	HOME39	1	5/14/2013	Hardwood	8
+Homestead	HOME39	1	5/22/2022	Hardwood	4
+Homestead	HOME39	1	5/27/2017	Hardwood	7
+Homestead	HOME39	1	5/27/2017	Total	7
+Homestead	HOME4	1	5/13/2009	Hardwood	4
+Homestead	HOME4	1	5/21/2022	Conifer	1
+Homestead	HOME4	1	5/21/2022	Hardwood	3
+Homestead	HOME4	1	5/27/2017	Conifer	1
+Homestead	HOME4	1	5/27/2017	Hardwood	3
+Homestead	HOME4	1	5/27/2017	Total	4
+Homestead	HOME40	1	5/13/2009	Hardwood	9
+Homestead	HOME40	1	5/22/2022	Hardwood	13
+Homestead	HOME40	1	5/27/2017	Hardwood	12
+Homestead	HOME40	1	5/27/2017	Total	12
+Homestead	HOME43	1	5/13/2009	Hardwood	10
+Homestead	HOME43	1	5/22/2022	Hardwood	13
+Homestead	HOME43	1	5/27/2017	Hardwood	13
+Homestead	HOME43	1	5/27/2017	Total	13
+Homestead	HOME44	1	5/13/2009	Hardwood	14
+Homestead	HOME44	1	5/22/2022	Hardwood	12
+Homestead	HOME44	1	5/27/2017	Hardwood	14
+Homestead	HOME44	1	5/27/2017	Total	14
+Homestead	HOME45	1	5/13/2009	Hardwood	7
+Homestead	HOME45	1	5/22/2022	Hardwood	11
+Homestead	HOME45	1	5/27/2017	Hardwood	13
+Homestead	HOME45	1	5/27/2017	Total	13
+Homestead	HOME46	1	5/12/2009	Hardwood	10
+Homestead	HOME46	1	5/22/2022	Hardwood	9
+Homestead	HOME46	1	5/27/2017	Hardwood	16
+Homestead	HOME46	1	5/27/2017	Total	16
+Homestead	HOME47	1	5/13/2009	Hardwood	9
+Homestead	HOME47	1	5/14/2013	Hardwood	7
+Homestead	HOME47	1	5/22/2022	Hardwood	16
+Homestead	HOME47	1	5/27/2017	Hardwood	11
+Homestead	HOME47	1	5/27/2017	Total	11
+Homestead	HOME48	1	5/12/2009	Hardwood	1
+Homestead	HOME5	1	5/27/2017	Total	0
+Homestead	HOME6	1	5/27/2017	Total	0
+Homestead	HOME7	1	5/27/2017	Total	0
+Homestead	HOME8	1	5/27/2017	Total	0
+Homestead	HOME9	1	5/12/2009	Hardwood	2
+Homestead	HOME9	1	5/21/2022	Hardwood	3
+Homestead	HOME9	1	5/27/2017	Hardwood	2
+Homestead	HOME9	1	5/27/2017	Total	2
+Hopewell Culture	HOCU1	1	6/2/2005	Hardwood	9
+Hopewell Culture	HOCU1	1	5/12/2015	Hardwood	2
+Hopewell Culture	HOCU1	1	5/14/2019	Hardwood	3
+Hopewell Culture	HOCU1	1	5/22/2011	Hardwood	2
+Hopewell Culture	HOCU1	1	5/31/2006	Hardwood	4
+Hopewell Culture	HOCU1	2	6/2/2005	Hardwood	3
+Hopewell Culture	HOCU1	2	5/31/2006	Hardwood	6
+Hopewell Culture	HOCU1	4	6/2/2005	Hardwood	19
+Hopewell Culture	HOCU1	4	5/31/2006	Hardwood	3
+Hopewell Culture	HOCU11	1	6/3/2005	Hardwood	4
+Hopewell Culture	HOCU11	1	6/12/2007	Hardwood	3
+Hopewell Culture	HOCU11	1	5/12/2015	Hardwood	5
+Hopewell Culture	HOCU11	1	5/15/2019	Hardwood	9
+Hopewell Culture	HOCU11	1	5/22/2011	Hardwood	8
+Hopewell Culture	HOCU11	1	5/31/2006	Hardwood	3
+Hopewell Culture	HOCU11	2	6/3/2005	Hardwood	3
+Hopewell Culture	HOCU11	2	5/31/2006	Hardwood	6
+Hopewell Culture	HOCU11	3	6/3/2005	Hardwood	9
+Hopewell Culture	HOCU11	3	5/31/2006	Hardwood	4
+Hopewell Culture	HOCU11	4	6/3/2005	Hardwood	7
+Hopewell Culture	HOCU11	4	5/31/2006	Hardwood	8
+Hopewell Culture	HOCU12	1	5/23/2011	Hardwood	1
+Hopewell Culture	HOCU13	1	6/13/2007	Hardwood	1
+Hopewell Culture	HOCU13	1	5/13/2015	Hardwood	1
+Hopewell Culture	HOCU13	1	5/14/2019	Hardwood	6
+Hopewell Culture	HOCU13	1	5/23/2011	Hardwood	4
+Hopewell Culture	HOCU13	3	6/1/2005	Hardwood	4
+Hopewell Culture	HOCU15	2	6/1/2005	Hardwood	2
+Hopewell Culture	HOCU15	2	6/1/2006	Hardwood	1
+Hopewell Culture	HOCU17	2	6/1/2006	Hardwood	1
+Hopewell Culture	HOCU18	1	6/1/2005	Hardwood	2
+Hopewell Culture	HOCU18	1	6/1/2006	Hardwood	3
+Hopewell Culture	HOCU18	1	5/14/2019	Hardwood	1
+Hopewell Culture	HOCU18	1	5/23/2011	Hardwood	2
+Hopewell Culture	HOCU18	2	6/1/2006	Hardwood	2
+Hopewell Culture	HOCU18	3	6/1/2005	Hardwood	10
+Hopewell Culture	HOCU18	3	6/1/2006	Hardwood	5
+Hopewell Culture	HOCU2	1	6/1/2005	Hardwood	4
+Hopewell Culture	HOCU2	1	6/12/2007	Hardwood	5
+Hopewell Culture	HOCU2	1	5/12/2015	Hardwood	5
+Hopewell Culture	HOCU2	1	5/14/2019	Hardwood	10
+Hopewell Culture	HOCU2	1	5/22/2011	Hardwood	10
+Hopewell Culture	HOCU2	1	5/31/2006	Hardwood	8
+Hopewell Culture	HOCU2	2	6/1/2005	Hardwood	5
+Hopewell Culture	HOCU2	2	5/31/2006	Hardwood	3
+Hopewell Culture	HOCU2	3	6/1/2005	Hardwood	9
+Hopewell Culture	HOCU2	3	5/31/2006	Hardwood	4
+Hopewell Culture	HOCU2	4	6/1/2005	Hardwood	9
+Hopewell Culture	HOCU2	4	5/31/2006	Hardwood	6
+Hopewell Culture	HOCU20	4	6/2/2005	Hardwood	2
+Hopewell Culture	HOCU21	1	6/2/2005	Hardwood	17
+Hopewell Culture	HOCU21	1	6/2/2006	Hardwood	18
+Hopewell Culture	HOCU21	1	6/12/2007	Hardwood	10
+Hopewell Culture	HOCU21	1	5/14/2015	Hardwood	12
+Hopewell Culture	HOCU21	1	5/15/2019	Hardwood	17
+Hopewell Culture	HOCU21	2	6/2/2005	Hardwood	11
+Hopewell Culture	HOCU21	2	6/2/2006	Hardwood	7
+Hopewell Culture	HOCU21	3	6/2/2005	Hardwood	18
+Hopewell Culture	HOCU21	3	6/2/2006	Hardwood	16
+Hopewell Culture	HOCU21	4	6/2/2005	Hardwood	23
+Hopewell Culture	HOCU21	4	6/2/2006	Hardwood	15
+Hopewell Culture	HOCU26	1	5/16/2019	Hardwood	1
+Hopewell Culture	HOCU26	1	5/23/2011	Hardwood	1
+Hopewell Culture	HOCU26	2	6/1/2006	Hardwood	3
+Hopewell Culture	HOCU26	2	6/3/2005	Hardwood	4
+Hopewell Culture	HOCU26	3	6/1/2006	Hardwood	1
+Hopewell Culture	HOCU3	4	6/2/2005	Hardwood	12
+Hopewell Culture	HOCU3	4	5/31/2006	Hardwood	3
+Hopewell Culture	HOCU4	1	6/2/2005	Hardwood	17
+Hopewell Culture	HOCU4	1	6/12/2007	Hardwood	8
+Hopewell Culture	HOCU4	1	5/12/2015	Hardwood	13
+Hopewell Culture	HOCU4	1	5/14/2019	Hardwood	17
+Hopewell Culture	HOCU4	1	5/22/2011	Hardwood	22
+Hopewell Culture	HOCU4	1	5/31/2006	Hardwood	15
+Hopewell Culture	HOCU4	3	6/2/2005	Hardwood	5
+Hopewell Culture	HOCU4	3	5/31/2006	Hardwood	5
+Hopewell Culture	HOCU4	4	6/2/2005	Hardwood	18
+Hopewell Culture	HOCU4	4	5/31/2006	Hardwood	11
+Hopewell Culture	HOCU8	4	6/2/2005	Hardwood	1
+Hopewell Culture	HOCU8	4	6/2/2006	Hardwood	2
+Lincoln Boyhood	LIBO1	1	6/10/2007	Hardwood	10
+Lincoln Boyhood	LIBO1	1	5/15/2015	Hardwood	8
+Lincoln Boyhood	LIBO1	1	5/18/2019	Hardwood	11
+Lincoln Boyhood	LIBO1	1	5/20/2011	Hardwood	21
+Lincoln Boyhood	LIBO10	1	6/9/2007	Hardwood	4
+Lincoln Boyhood	LIBO10	1	5/15/2015	Hardwood	2
+Lincoln Boyhood	LIBO10	1	5/18/2019	Hardwood	15
+Lincoln Boyhood	LIBO10	1	5/20/2011	Hardwood	9
+Lincoln Boyhood	LIBO13	1	6/9/2007	Hardwood	9
+Lincoln Boyhood	LIBO13	1	5/15/2015	Hardwood	10
+Lincoln Boyhood	LIBO13	1	5/18/2019	Hardwood	8
+Lincoln Boyhood	LIBO13	1	5/20/2011	Hardwood	7
+Lincoln Boyhood	LIBO14	1	6/9/2007	Hardwood	6
+Lincoln Boyhood	LIBO14	1	5/15/2015	Hardwood	8
+Lincoln Boyhood	LIBO14	1	5/18/2019	Hardwood	9
+Lincoln Boyhood	LIBO14	1	5/20/2011	Hardwood	4
+Lincoln Boyhood	LIBO16	1	6/10/2007	Hardwood	8
+Lincoln Boyhood	LIBO16	1	5/15/2015	Hardwood	7
+Lincoln Boyhood	LIBO16	1	5/18/2019	Hardwood	12
+Lincoln Boyhood	LIBO16	1	5/20/2011	Conifer	1
+Lincoln Boyhood	LIBO16	1	5/20/2011	Hardwood	10
+Lincoln Boyhood	LIBO17	1	6/9/2007	Conifer	1
+Lincoln Boyhood	LIBO17	1	6/9/2007	Hardwood	12
+Lincoln Boyhood	LIBO17	1	5/16/2015	Conifer	1
+Lincoln Boyhood	LIBO17	1	5/16/2015	Hardwood	5
+Lincoln Boyhood	LIBO17	1	5/17/2019	Hardwood	14
+Lincoln Boyhood	LIBO17	1	5/20/2011	Hardwood	13
+Lincoln Boyhood	LIBO19	1	6/10/2007	Hardwood	8
+Lincoln Boyhood	LIBO19	1	5/15/2015	Hardwood	5
+Lincoln Boyhood	LIBO19	1	5/17/2019	Hardwood	10
+Lincoln Boyhood	LIBO19	1	5/20/2011	Hardwood	15
+Lincoln Boyhood	LIBO2	1	6/9/2007	Hardwood	6
+Lincoln Boyhood	LIBO2	1	5/15/2015	Hardwood	10
+Lincoln Boyhood	LIBO2	1	5/18/2019	Hardwood	14
+Lincoln Boyhood	LIBO2	1	5/20/2011	Hardwood	13
+Lincoln Boyhood	LIBO20	1	6/10/2007	Hardwood	9
+Lincoln Boyhood	LIBO20	1	5/16/2015	Hardwood	3
+Lincoln Boyhood	LIBO20	1	5/17/2019	Hardwood	8
+Lincoln Boyhood	LIBO20	1	5/20/2011	Hardwood	4
+Lincoln Boyhood	LIBO22	1	6/10/2007	Hardwood	8
+Lincoln Boyhood	LIBO22	1	5/15/2015	Hardwood	6
+Lincoln Boyhood	LIBO22	1	5/17/2019	Hardwood	11
+Lincoln Boyhood	LIBO22	1	5/20/2011	Hardwood	13
+Lincoln Boyhood	LIBO23	1	6/10/2007	Hardwood	10
+Lincoln Boyhood	LIBO23	1	5/16/2015	Hardwood	3
+Lincoln Boyhood	LIBO23	1	5/17/2019	Hardwood	6
+Lincoln Boyhood	LIBO23	1	5/20/2011	Hardwood	5
+Lincoln Boyhood	LIBO24	1	6/9/2007	Hardwood	10
+Lincoln Boyhood	LIBO24	1	5/16/2015	Hardwood	4
+Lincoln Boyhood	LIBO24	1	5/17/2019	Hardwood	8
+Lincoln Boyhood	LIBO24	1	5/20/2011	Hardwood	9
+Lincoln Boyhood	LIBO26	1	6/10/2007	Hardwood	7
+Lincoln Boyhood	LIBO26	1	5/15/2015	Hardwood	2
+Lincoln Boyhood	LIBO26	1	5/17/2019	Hardwood	13
+Lincoln Boyhood	LIBO26	1	5/21/2011	Conifer	1
+Lincoln Boyhood	LIBO26	1	5/21/2011	Hardwood	2
+Lincoln Boyhood	LIBO27	1	6/10/2007	Hardwood	12
+Lincoln Boyhood	LIBO27	1	5/15/2015	Hardwood	9
+Lincoln Boyhood	LIBO27	1	5/17/2019	Hardwood	18
+Lincoln Boyhood	LIBO27	1	5/21/2011	Hardwood	20
+Lincoln Boyhood	LIBO28	1	6/10/2007	Hardwood	7
+Lincoln Boyhood	LIBO28	1	5/16/2015	Hardwood	4
+Lincoln Boyhood	LIBO28	1	5/17/2019	Hardwood	10
+Lincoln Boyhood	LIBO28	1	5/20/2011	Hardwood	12
+Lincoln Boyhood	LIBO29	1	6/10/2007	Conifer	2
+Lincoln Boyhood	LIBO29	1	6/10/2007	Hardwood	12
+Lincoln Boyhood	LIBO29	1	5/15/2015	Hardwood	4
+Lincoln Boyhood	LIBO29	1	5/17/2019	Conifer	1
+Lincoln Boyhood	LIBO29	1	5/17/2019	Hardwood	11
+Lincoln Boyhood	LIBO29	1	5/21/2011	Conifer	4
+Lincoln Boyhood	LIBO29	1	5/21/2011	Hardwood	12
+Lincoln Boyhood	LIBO3	1	6/9/2007	Hardwood	7
+Lincoln Boyhood	LIBO3	1	5/15/2015	Hardwood	6
+Lincoln Boyhood	LIBO3	1	5/18/2019	Hardwood	13
+Lincoln Boyhood	LIBO3	1	5/20/2011	Hardwood	19
+Lincoln Boyhood	LIBO30	1	6/10/2007	Hardwood	5
+Lincoln Boyhood	LIBO30	1	5/15/2015	Hardwood	7
+Lincoln Boyhood	LIBO30	1	5/17/2019	Hardwood	10
+Lincoln Boyhood	LIBO30	1	5/21/2011	Hardwood	12
+Lincoln Boyhood	LIBO31	1	6/10/2007	Conifer	1
+Lincoln Boyhood	LIBO31	1	6/10/2007	Hardwood	10
+Lincoln Boyhood	LIBO31	1	5/16/2015	Hardwood	7
+Lincoln Boyhood	LIBO31	1	5/17/2019	Conifer	1
+Lincoln Boyhood	LIBO31	1	5/17/2019	Hardwood	7
+Lincoln Boyhood	LIBO31	1	5/20/2011	Hardwood	6
+Lincoln Boyhood	LIBO32	1	6/9/2007	Hardwood	4
+Lincoln Boyhood	LIBO32	1	5/15/2015	Conifer	1
+Lincoln Boyhood	LIBO32	1	5/15/2015	Hardwood	3
+Lincoln Boyhood	LIBO32	1	5/17/2019	Hardwood	5
+Lincoln Boyhood	LIBO32	1	5/21/2011	Conifer	1
+Lincoln Boyhood	LIBO32	1	5/21/2011	Hardwood	2
+Lincoln Boyhood	LIBO33	1	6/10/2007	Hardwood	6
+Lincoln Boyhood	LIBO33	1	5/15/2015	Hardwood	6
+Lincoln Boyhood	LIBO33	1	5/17/2019	Hardwood	12
+Lincoln Boyhood	LIBO33	1	5/21/2011	Hardwood	11
+Lincoln Boyhood	LIBO34	1	6/10/2007	Hardwood	11
+Lincoln Boyhood	LIBO34	1	5/16/2015	Hardwood	8
+Lincoln Boyhood	LIBO34	1	5/18/2019	Hardwood	9
+Lincoln Boyhood	LIBO34	1	5/21/2011	Hardwood	13
+Lincoln Boyhood	LIBO35	1	6/10/2007	Hardwood	8
+Lincoln Boyhood	LIBO35	1	5/16/2015	Hardwood	5
+Lincoln Boyhood	LIBO35	1	5/17/2019	Hardwood	6
+Lincoln Boyhood	LIBO35	1	5/20/2011	Hardwood	8
+Lincoln Boyhood	LIBO36	1	6/10/2007	Hardwood	8
+Lincoln Boyhood	LIBO36	1	5/15/2015	Conifer	1
+Lincoln Boyhood	LIBO36	1	5/15/2015	Hardwood	4
+Lincoln Boyhood	LIBO36	1	5/17/2019	Conifer	1
+Lincoln Boyhood	LIBO36	1	5/17/2019	Hardwood	13
+Lincoln Boyhood	LIBO36	1	5/21/2011	Conifer	1
+Lincoln Boyhood	LIBO36	1	5/21/2011	Hardwood	12
+Lincoln Boyhood	LIBO37	1	6/10/2007	Hardwood	2
+Lincoln Boyhood	LIBO37	1	5/15/2015	Hardwood	5
+Lincoln Boyhood	LIBO37	1	5/17/2019	Hardwood	11
+Lincoln Boyhood	LIBO37	1	5/21/2011	Hardwood	5
+Lincoln Boyhood	LIBO38	1	6/9/2007	Hardwood	14
+Lincoln Boyhood	LIBO38	1	5/16/2015	Hardwood	8
+Lincoln Boyhood	LIBO38	1	5/18/2019	Hardwood	14
+Lincoln Boyhood	LIBO38	1	5/21/2011	Hardwood	21
+Lincoln Boyhood	LIBO39	1	6/10/2007	Hardwood	10
+Lincoln Boyhood	LIBO39	1	5/16/2015	Hardwood	5
+Lincoln Boyhood	LIBO39	1	5/17/2019	Hardwood	8
+Lincoln Boyhood	LIBO39	1	5/20/2011	Hardwood	5
+Lincoln Boyhood	LIBO4	1	6/9/2007	Hardwood	8
+Lincoln Boyhood	LIBO4	1	5/15/2015	Hardwood	9
+Lincoln Boyhood	LIBO4	1	5/18/2019	Hardwood	13
+Lincoln Boyhood	LIBO4	1	5/20/2011	Hardwood	23
+Lincoln Boyhood	LIBO40	1	6/9/2007	Hardwood	6
+Lincoln Boyhood	LIBO40	1	5/16/2015	Hardwood	10
+Lincoln Boyhood	LIBO40	1	5/17/2019	Hardwood	10
+Lincoln Boyhood	LIBO40	1	5/21/2011	Hardwood	13
+Lincoln Boyhood	LIBO41	1	6/10/2007	Hardwood	6
+Lincoln Boyhood	LIBO41	1	5/16/2015	Hardwood	6
+Lincoln Boyhood	LIBO41	1	5/17/2019	Hardwood	9
+Lincoln Boyhood	LIBO41	1	5/20/2011	Hardwood	6
+Lincoln Boyhood	LIBO5	1	6/9/2007	Hardwood	4
+Lincoln Boyhood	LIBO5	1	5/15/2015	Hardwood	4
+Lincoln Boyhood	LIBO5	1	5/18/2019	Hardwood	8
+Lincoln Boyhood	LIBO5	1	5/20/2011	Hardwood	12
+Lincoln Boyhood	LIBO6	1	6/9/2007	Hardwood	6
+Lincoln Boyhood	LIBO6	1	5/15/2015	Hardwood	4
+Lincoln Boyhood	LIBO6	1	5/18/2019	Hardwood	11
+Lincoln Boyhood	LIBO6	1	5/20/2011	Hardwood	12
+Lincoln Boyhood	LIBO7	1	6/9/2007	Hardwood	6
+Lincoln Boyhood	LIBO7	1	5/15/2015	Hardwood	5
+Lincoln Boyhood	LIBO7	1	5/18/2019	Hardwood	5
+Lincoln Boyhood	LIBO7	1	5/20/2011	Hardwood	9
+Lincoln Boyhood	LIBO8	1	6/9/2007	Conifer	1
+Lincoln Boyhood	LIBO8	1	6/9/2007	Hardwood	6
+Lincoln Boyhood	LIBO8	1	5/15/2015	Hardwood	3
+Lincoln Boyhood	LIBO8	1	5/18/2019	Hardwood	12
+Lincoln Boyhood	LIBO8	1	5/20/2011	Conifer	2
+Lincoln Boyhood	LIBO8	1	5/20/2011	Hardwood	9
+Lincoln Boyhood	LIBO9	1	6/9/2007	Hardwood	7
+Lincoln Boyhood	LIBO9	1	5/15/2015	Hardwood	5
+Lincoln Boyhood	LIBO9	1	5/18/2019	Hardwood	9
+Lincoln Boyhood	LIBO9	1	5/20/2011	Hardwood	12
+Pea Ridge	PERI1	1	5/14/2008	Conifer	1
+Pea Ridge	PERI1	1	5/14/2008	Hardwood	5
+Pea Ridge	PERI1	1	5/21/2012	Hardwood	5
+Pea Ridge	PERI1	1	5/21/2016	Hardwood	4
+Pea Ridge	PERI1	1	5/21/2016	Total	4
+Pea Ridge	PERI10	1	5/17/2021	Hardwood	12
+Pea Ridge	PERI10	1	5/18/2008	Hardwood	8
+Pea Ridge	PERI10	1	5/23/2012	Hardwood	9
+Pea Ridge	PERI11	1	5/18/2008	Hardwood	11
+Pea Ridge	PERI11	1	5/22/2021	Hardwood	10
+Pea Ridge	PERI11	1	5/23/2012	Hardwood	10
+Pea Ridge	PERI11	1	5/25/2016	Hardwood	5
+Pea Ridge	PERI11	1	5/25/2016	Total	5
+Pea Ridge	PERI12	1	5/17/2008	Hardwood	14
+Pea Ridge	PERI12	1	5/20/2021	Hardwood	11
+Pea Ridge	PERI12	1	5/22/2012	Hardwood	7
+Pea Ridge	PERI12	1	5/24/2016	Total	12
+Pea Ridge	PERI13	1	5/17/2008	Hardwood	4
+Pea Ridge	PERI13	1	5/20/2021	Hardwood	5
+Pea Ridge	PERI13	1	5/22/2012	Hardwood	8
+Pea Ridge	PERI13	1	5/24/2016	Hardwood	10
+Pea Ridge	PERI13	1	5/24/2016	Total	10
+Pea Ridge	PERI14	1	5/21/2012	Conifer	1
+Pea Ridge	PERI14	1	5/23/2016	Total	0
+Pea Ridge	PERI15	1	5/14/2008	Hardwood	12
+Pea Ridge	PERI15	1	5/17/2021	Hardwood	12
+Pea Ridge	PERI15	1	5/18/2012	Hardwood	5
+Pea Ridge	PERI15	1	5/21/2016	Hardwood	8
+Pea Ridge	PERI15	1	5/21/2016	Total	8
+Pea Ridge	PERI16	1	5/14/2008	Hardwood	9
+Pea Ridge	PERI16	1	5/17/2016	Hardwood	9
+Pea Ridge	PERI16	1	5/17/2016	Total	9
+Pea Ridge	PERI16	1	5/18/2012	Hardwood	7
+Pea Ridge	PERI16	1	5/19/2021	Hardwood	7
+Pea Ridge	PERI17	1	5/14/2008	Conifer	3
+Pea Ridge	PERI17	1	5/17/2016	Conifer	4
+Pea Ridge	PERI17	1	5/17/2016	Hardwood	2
+Pea Ridge	PERI17	1	5/17/2016	Total	6
+Pea Ridge	PERI17	1	5/17/2021	Hardwood	3
+Pea Ridge	PERI17	1	5/23/2012	Conifer	3
+Pea Ridge	PERI18	1	5/17/2016	Hardwood	8
+Pea Ridge	PERI18	1	5/17/2016	Total	8
+Pea Ridge	PERI18	1	5/17/2021	Hardwood	7
+Pea Ridge	PERI18	1	5/18/2008	Hardwood	12
+Pea Ridge	PERI18	1	5/23/2012	Hardwood	8
+Pea Ridge	PERI19	1	5/17/2016	Hardwood	9
+Pea Ridge	PERI19	1	5/17/2016	Total	9
+Pea Ridge	PERI19	1	5/18/2008	Hardwood	10
+Pea Ridge	PERI19	1	5/22/2021	Hardwood	8
+Pea Ridge	PERI19	1	5/23/2012	Hardwood	11
+Pea Ridge	PERI2	1	5/14/2008	Hardwood	9
+Pea Ridge	PERI2	1	5/17/2016	Hardwood	10
+Pea Ridge	PERI2	1	5/17/2016	Total	10
+Pea Ridge	PERI2	1	5/17/2021	Hardwood	13
+Pea Ridge	PERI2	1	5/18/2012	Hardwood	8
+Pea Ridge	PERI20	1	5/17/2008	Hardwood	7
+Pea Ridge	PERI20	1	5/20/2021	Hardwood	6
+Pea Ridge	PERI20	1	5/22/2012	Hardwood	4
+Pea Ridge	PERI20	1	5/24/2016	Hardwood	9
+Pea Ridge	PERI20	1	5/24/2016	Total	9
+Pea Ridge	PERI22	1	5/14/2008	Hardwood	4
+Pea Ridge	PERI22	1	5/17/2021	Hardwood	18
+Pea Ridge	PERI22	1	5/18/2012	Hardwood	10
+Pea Ridge	PERI22	1	5/21/2016	Hardwood	16
+Pea Ridge	PERI22	1	5/21/2016	Total	16
+Pea Ridge	PERI23	1	5/14/2008	Conifer	6
+Pea Ridge	PERI23	1	5/14/2008	Hardwood	6
+Pea Ridge	PERI23	1	5/17/2016	Conifer	7
+Pea Ridge	PERI23	1	5/17/2016	Hardwood	5
+Pea Ridge	PERI23	1	5/17/2016	Total	12
+Pea Ridge	PERI23	1	5/18/2012	Conifer	5
+Pea Ridge	PERI23	1	5/18/2012	Hardwood	6
+Pea Ridge	PERI23	1	5/19/2021	Hardwood	6
+Pea Ridge	PERI24	1	5/17/2016	Hardwood	9
+Pea Ridge	PERI24	1	5/17/2016	Total	9
+Pea Ridge	PERI24	1	5/18/2008	Hardwood	8
+Pea Ridge	PERI24	1	5/19/2021	Hardwood	12
+Pea Ridge	PERI24	1	5/23/2012	Hardwood	10
+Pea Ridge	PERI25	1	5/17/2016	Hardwood	10
+Pea Ridge	PERI25	1	5/17/2016	Total	10
+Pea Ridge	PERI25	1	5/18/2008	Hardwood	8
+Pea Ridge	PERI25	1	5/19/2021	Hardwood	13
+Pea Ridge	PERI25	1	5/23/2012	Hardwood	11
+Pea Ridge	PERI26	1	5/17/2008	Hardwood	11
+Pea Ridge	PERI26	1	5/22/2012	Conifer	1
+Pea Ridge	PERI26	1	5/22/2012	Hardwood	9
+Pea Ridge	PERI26	1	5/22/2021	Hardwood	10
+Pea Ridge	PERI26	1	5/25/2016	Hardwood	13
+Pea Ridge	PERI26	1	5/25/2016	Total	13
+Pea Ridge	PERI27	1	5/17/2008	Conifer	1
+Pea Ridge	PERI27	1	5/17/2008	Hardwood	3
+Pea Ridge	PERI27	1	5/18/2021	Conifer	1
+Pea Ridge	PERI27	1	5/18/2021	Hardwood	6
+Pea Ridge	PERI27	1	5/22/2012	Conifer	2
+Pea Ridge	PERI27	1	5/22/2012	Hardwood	11
+Pea Ridge	PERI27	1	5/24/2016	Conifer	2
+Pea Ridge	PERI27	1	5/24/2016	Hardwood	4
+Pea Ridge	PERI27	1	5/24/2016	Total	6
+Pea Ridge	PERI28	1	5/17/2008	Hardwood	9
+Pea Ridge	PERI28	1	5/22/2012	Hardwood	8
+Pea Ridge	PERI28	1	5/24/2016	Hardwood	3
+Pea Ridge	PERI28	1	5/24/2016	Total	3
+Pea Ridge	PERI28	1	5/24/2021	Hardwood	9
+Pea Ridge	PERI29	1	5/14/2012	Hardwood	9
+Pea Ridge	PERI29	1	5/17/2008	Hardwood	8
+Pea Ridge	PERI29	1	5/20/2021	Hardwood	7
+Pea Ridge	PERI29	1	5/24/2016	Hardwood	5
+Pea Ridge	PERI29	1	5/24/2016	Total	5
+Pea Ridge	PERI3	1	5/14/2008	Hardwood	13
+Pea Ridge	PERI3	1	5/17/2016	Hardwood	10
+Pea Ridge	PERI3	1	5/17/2016	Total	10
+Pea Ridge	PERI3	1	5/17/2021	Hardwood	11
+Pea Ridge	PERI3	1	5/23/2012	Hardwood	13
+Pea Ridge	PERI30	1	5/21/2016	Total	0
+Pea Ridge	PERI31	1	5/14/2008	Hardwood	1
+Pea Ridge	PERI31	1	5/18/2012	Hardwood	3
+Pea Ridge	PERI31	1	5/20/2021	Hardwood	13
+Pea Ridge	PERI32	1	5/14/2008	Hardwood	6
+Pea Ridge	PERI32	1	5/17/2021	Hardwood	11
+Pea Ridge	PERI32	1	5/18/2012	Hardwood	8
+Pea Ridge	PERI32	1	5/21/2016	Hardwood	9
+Pea Ridge	PERI32	1	5/21/2016	Total	9
+Pea Ridge	PERI33	1	5/15/2008	Hardwood	13
+Pea Ridge	PERI33	1	5/17/2016	Hardwood	13
+Pea Ridge	PERI33	1	5/17/2016	Total	13
+Pea Ridge	PERI33	1	5/18/2012	Hardwood	8
+Pea Ridge	PERI33	1	5/19/2021	Hardwood	14
+Pea Ridge	PERI34	1	5/17/2016	Conifer	8
+Pea Ridge	PERI34	1	5/17/2016	Hardwood	12
+Pea Ridge	PERI34	1	5/17/2016	Total	20
+Pea Ridge	PERI34	1	5/18/2008	Conifer	3
+Pea Ridge	PERI34	1	5/18/2008	Hardwood	7
+Pea Ridge	PERI34	1	5/23/2012	Conifer	4
+Pea Ridge	PERI34	1	5/23/2012	Hardwood	3
+Pea Ridge	PERI34	1	5/24/2021	Hardwood	7
+Pea Ridge	PERI35	1	5/16/2008	Hardwood	9
+Pea Ridge	PERI35	1	5/17/2016	Conifer	1
+Pea Ridge	PERI35	1	5/17/2016	Hardwood	9
+Pea Ridge	PERI35	1	5/17/2016	Total	10
+Pea Ridge	PERI35	1	5/20/2021	Hardwood	5
+Pea Ridge	PERI35	1	5/22/2012	Hardwood	7
+Pea Ridge	PERI36	1	5/17/2008	Hardwood	10
+Pea Ridge	PERI36	1	5/18/2021	Hardwood	12
+Pea Ridge	PERI36	1	5/22/2012	Hardwood	5
+Pea Ridge	PERI36	1	5/24/2016	Hardwood	7
+Pea Ridge	PERI36	1	5/24/2016	Total	7
+Pea Ridge	PERI37	1	5/17/2008	Hardwood	6
+Pea Ridge	PERI37	1	5/18/2021	Hardwood	7
+Pea Ridge	PERI37	1	5/22/2012	Hardwood	3
+Pea Ridge	PERI37	1	5/24/2016	Hardwood	2
+Pea Ridge	PERI37	1	5/24/2016	Total	2
+Pea Ridge	PERI38	1	5/17/2008	Hardwood	8
+Pea Ridge	PERI38	1	5/17/2012	Hardwood	5
+Pea Ridge	PERI38	1	5/24/2016	Hardwood	5
+Pea Ridge	PERI38	1	5/24/2016	Total	5
+Pea Ridge	PERI38	1	5/24/2021	Hardwood	5
+Pea Ridge	PERI39	1	5/17/2008	Hardwood	8
+Pea Ridge	PERI39	1	5/17/2012	Hardwood	7
+Pea Ridge	PERI39	1	5/20/2021	Hardwood	7
+Pea Ridge	PERI39	1	5/24/2016	Hardwood	10
+Pea Ridge	PERI39	1	5/24/2016	Total	10
+Pea Ridge	PERI4	1	5/17/2016	Hardwood	8
+Pea Ridge	PERI4	1	5/17/2016	Total	8
+Pea Ridge	PERI4	1	5/17/2021	Hardwood	4
+Pea Ridge	PERI4	1	5/18/2008	Hardwood	7
+Pea Ridge	PERI4	1	5/23/2012	Hardwood	9
+Pea Ridge	PERI40	1	5/23/2016	Total	0
+Pea Ridge	PERI41	1	5/14/2008	Conifer	2
+Pea Ridge	PERI41	1	5/18/2012	Conifer	2
+Pea Ridge	PERI41	1	5/20/2021	Hardwood	5
+Pea Ridge	PERI41	1	5/21/2016	Conifer	1
+Pea Ridge	PERI41	1	5/21/2016	Hardwood	3
+Pea Ridge	PERI41	1	5/21/2016	Total	4
+Pea Ridge	PERI42	1	5/15/2008	Conifer	2
+Pea Ridge	PERI42	1	5/15/2008	Hardwood	1
+Pea Ridge	PERI42	1	5/17/2021	Conifer	4
+Pea Ridge	PERI42	1	5/17/2021	Hardwood	2
+Pea Ridge	PERI42	1	5/21/2016	Conifer	4
+Pea Ridge	PERI42	1	5/21/2016	Hardwood	1
+Pea Ridge	PERI42	1	5/21/2016	Total	5
+Pea Ridge	PERI43	1	5/15/2008	Conifer	6
+Pea Ridge	PERI43	1	5/15/2012	Conifer	4
+Pea Ridge	PERI43	1	5/17/2016	Conifer	8
+Pea Ridge	PERI43	1	5/17/2016	Total	8
+Pea Ridge	PERI44	1	5/16/2008	Conifer	2
+Pea Ridge	PERI44	1	5/16/2008	Hardwood	3
+Pea Ridge	PERI44	1	5/17/2016	Conifer	1
+Pea Ridge	PERI44	1	5/17/2016	Hardwood	9
+Pea Ridge	PERI44	1	5/17/2016	Total	10
+Pea Ridge	PERI44	1	5/22/2012	Conifer	1
+Pea Ridge	PERI44	1	5/22/2012	Hardwood	2
+Pea Ridge	PERI44	1	5/22/2021	Hardwood	9
+Pea Ridge	PERI45	1	5/16/2008	Conifer	4
+Pea Ridge	PERI45	1	5/16/2008	Hardwood	9
+Pea Ridge	PERI45	1	5/18/2021	Conifer	3
+Pea Ridge	PERI45	1	5/18/2021	Hardwood	13
+Pea Ridge	PERI45	1	5/22/2012	Conifer	2
+Pea Ridge	PERI45	1	5/22/2012	Hardwood	8
+Pea Ridge	PERI45	1	5/24/2016	Conifer	2
+Pea Ridge	PERI45	1	5/24/2016	Hardwood	6
+Pea Ridge	PERI45	1	5/24/2016	Total	8
+Pea Ridge	PERI46	1	5/17/2008	Hardwood	7
+Pea Ridge	PERI46	1	5/18/2021	Hardwood	5
+Pea Ridge	PERI46	1	5/22/2012	Hardwood	7
+Pea Ridge	PERI46	1	5/24/2016	Hardwood	2
+Pea Ridge	PERI46	1	5/24/2016	Total	2
+Pea Ridge	PERI47	1	5/17/2008	Hardwood	10
+Pea Ridge	PERI47	1	5/17/2012	Hardwood	9
+Pea Ridge	PERI47	1	5/24/2016	Hardwood	5
+Pea Ridge	PERI47	1	5/24/2016	Total	5
+Pea Ridge	PERI47	1	5/24/2021	Hardwood	6
+Pea Ridge	PERI48	1	5/17/2008	Hardwood	13
+Pea Ridge	PERI48	1	5/17/2012	Hardwood	18
+Pea Ridge	PERI48	1	5/24/2016	Hardwood	9
+Pea Ridge	PERI48	1	5/24/2016	Total	9
+Pea Ridge	PERI48	1	5/24/2021	Hardwood	11
+Pea Ridge	PERI49	1	5/23/2016	Total	0
+Pea Ridge	PERI5	1	5/14/2008	Conifer	13
+Pea Ridge	PERI5	1	5/18/2021	Hardwood	5
+Pea Ridge	PERI5	1	5/21/2012	Conifer	8
+Pea Ridge	PERI5	1	5/21/2016	Hardwood	7
+Pea Ridge	PERI5	1	5/21/2016	Total	7
+Pea Ridge	PERI50	1	5/23/2016	Total	0
+Pea Ridge	PERI51	1	5/15/2008	Conifer	3
+Pea Ridge	PERI51	1	5/15/2008	Hardwood	4
+Pea Ridge	PERI51	1	5/16/2016	Conifer	5
+Pea Ridge	PERI51	1	5/16/2016	Hardwood	9
+Pea Ridge	PERI51	1	5/16/2016	Total	14
+Pea Ridge	PERI51	1	5/18/2012	Conifer	6
+Pea Ridge	PERI51	1	5/18/2012	Hardwood	7
+Pea Ridge	PERI51	1	5/21/2016	Conifer	6
+Pea Ridge	PERI51	1	5/21/2016	Hardwood	10
+Pea Ridge	PERI51	1	5/21/2016	Total	16
+Pea Ridge	PERI51	1	5/22/2021	Hardwood	15
+Pea Ridge	PERI52	1	5/15/2008	Hardwood	3
+Pea Ridge	PERI52	1	5/15/2012	Hardwood	6
+Pea Ridge	PERI52	1	5/16/2016	Hardwood	10
+Pea Ridge	PERI52	1	5/16/2016	Total	10
+Pea Ridge	PERI52	1	5/22/2021	Hardwood	11
+Pea Ridge	PERI53	1	5/15/2012	Conifer	9
+Pea Ridge	PERI53	1	5/16/2008	Conifer	13
+Pea Ridge	PERI53	1	5/17/2016	Conifer	6
+Pea Ridge	PERI53	1	5/17/2016	Total	6
+Pea Ridge	PERI53	1	5/22/2021	Hardwood	3
+Pea Ridge	PERI54	1	5/23/2016	Total	0
+Pea Ridge	PERI55	1	5/16/2008	Conifer	2
+Pea Ridge	PERI55	1	5/16/2008	Hardwood	6
+Pea Ridge	PERI55	1	5/18/2021	Conifer	4
+Pea Ridge	PERI55	1	5/18/2021	Hardwood	7
+Pea Ridge	PERI55	1	5/23/2012	Conifer	3
+Pea Ridge	PERI55	1	5/23/2012	Hardwood	6
+Pea Ridge	PERI55	1	5/24/2016	Conifer	1
+Pea Ridge	PERI55	1	5/24/2016	Hardwood	7
+Pea Ridge	PERI55	1	5/24/2016	Total	8
+Pea Ridge	PERI56	1	5/12/2008	Conifer	1
+Pea Ridge	PERI56	1	5/12/2008	Hardwood	7
+Pea Ridge	PERI56	1	5/17/2012	Hardwood	10
+Pea Ridge	PERI56	1	5/19/2021	Hardwood	10
+Pea Ridge	PERI56	1	5/24/2016	Conifer	1
+Pea Ridge	PERI56	1	5/24/2016	Hardwood	5
+Pea Ridge	PERI56	1	5/24/2016	Total	6
+Pea Ridge	PERI57	1	5/17/2012	Hardwood	10
+Pea Ridge	PERI57	1	5/18/2008	Hardwood	13
+Pea Ridge	PERI57	1	5/24/2016	Hardwood	9
+Pea Ridge	PERI57	1	5/24/2016	Total	9
+Pea Ridge	PERI57	1	5/24/2021	Hardwood	10
+Pea Ridge	PERI58	1	5/17/2008	Hardwood	6
+Pea Ridge	PERI58	1	5/17/2012	Hardwood	12
+Pea Ridge	PERI58	1	5/20/2021	Hardwood	9
+Pea Ridge	PERI58	1	5/24/2016	Hardwood	6
+Pea Ridge	PERI58	1	5/24/2016	Total	6
+Pea Ridge	PERI59	1	5/13/2008	Hardwood	1
+Pea Ridge	PERI59	1	5/19/2021	Hardwood	1
+Pea Ridge	PERI59	1	5/23/2016	Total	0
+Pea Ridge	PERI6	1	5/14/2008	Hardwood	7
+Pea Ridge	PERI6	1	5/17/2021	Hardwood	10
+Pea Ridge	PERI6	1	5/18/2012	Hardwood	10
+Pea Ridge	PERI6	1	5/21/2016	Hardwood	6
+Pea Ridge	PERI6	1	5/21/2016	Total	6
+Pea Ridge	PERI60	1	5/15/2008	Conifer	1
+Pea Ridge	PERI60	1	5/15/2008	Hardwood	11
+Pea Ridge	PERI60	1	5/16/2012	Conifer	4
+Pea Ridge	PERI60	1	5/16/2012	Hardwood	14
+Pea Ridge	PERI60	1	5/16/2016	Hardwood	10
+Pea Ridge	PERI60	1	5/16/2016	Total	10
+Pea Ridge	PERI60	1	5/20/2021	Hardwood	15
+Pea Ridge	PERI61	1	5/15/2008	Hardwood	7
+Pea Ridge	PERI61	1	5/15/2012	Hardwood	11
+Pea Ridge	PERI61	1	5/16/2016	Hardwood	8
+Pea Ridge	PERI61	1	5/16/2016	Total	8
+Pea Ridge	PERI61	1	5/22/2021	Hardwood	11
+Pea Ridge	PERI62	1	5/15/2012	Hardwood	4
+Pea Ridge	PERI62	1	5/16/2008	Hardwood	7
+Pea Ridge	PERI62	1	5/22/2021	Hardwood	11
+Pea Ridge	PERI62	1	5/25/2016	Hardwood	5
+Pea Ridge	PERI62	1	5/25/2016	Total	5
+Pea Ridge	PERI63	1	5/23/2016	Total	0
+Pea Ridge	PERI64	1	5/23/2016	Total	0
+Pea Ridge	PERI65	1	5/17/2012	Conifer	1
+Pea Ridge	PERI65	1	5/17/2012	Hardwood	1
+Pea Ridge	PERI65	1	5/19/2021	Conifer	2
+Pea Ridge	PERI65	1	5/19/2021	Hardwood	4
+Pea Ridge	PERI65	1	5/24/2016	Conifer	2
+Pea Ridge	PERI65	1	5/24/2016	Hardwood	2
+Pea Ridge	PERI65	1	5/24/2016	Total	4
+Pea Ridge	PERI66	1	5/12/2008	Hardwood	1
+Pea Ridge	PERI66	1	5/19/2021	Hardwood	2
+Pea Ridge	PERI66	1	5/24/2016	Conifer	1
+Pea Ridge	PERI66	1	5/24/2016	Hardwood	2
+Pea Ridge	PERI66	1	5/24/2016	Total	3
+Pea Ridge	PERI67	1	5/17/2012	Conifer	1
+Pea Ridge	PERI67	1	5/17/2012	Hardwood	7
+Pea Ridge	PERI67	1	5/18/2008	Hardwood	8
+Pea Ridge	PERI67	1	5/24/2016	Hardwood	5
+Pea Ridge	PERI67	1	5/24/2016	Total	5
+Pea Ridge	PERI67	1	5/24/2021	Hardwood	5
+Pea Ridge	PERI68	1	5/13/2008	Conifer	8
+Pea Ridge	PERI68	1	5/16/2012	Conifer	4
+Pea Ridge	PERI68	1	5/16/2012	Hardwood	2
+Pea Ridge	PERI68	1	5/24/2016	Hardwood	4
+Pea Ridge	PERI68	1	5/24/2016	Total	4
+Pea Ridge	PERI69	1	5/23/2016	Total	0
+Pea Ridge	PERI7	1	5/14/2008	Hardwood	9
+Pea Ridge	PERI7	1	5/17/2016	Hardwood	14
+Pea Ridge	PERI7	1	5/17/2016	Total	14
+Pea Ridge	PERI7	1	5/17/2021	Hardwood	16
+Pea Ridge	PERI7	1	5/18/2012	Hardwood	8
+Pea Ridge	PERI70	1	5/15/2008	Hardwood	8
+Pea Ridge	PERI70	1	5/15/2012	Hardwood	10
+Pea Ridge	PERI70	1	5/16/2016	Hardwood	19
+Pea Ridge	PERI70	1	5/16/2016	Total	19
+Pea Ridge	PERI70	1	5/22/2021	Hardwood	12
+Pea Ridge	PERI71	1	5/15/2012	Conifer	4
+Pea Ridge	PERI71	1	5/15/2012	Hardwood	1
+Pea Ridge	PERI71	1	5/16/2008	Conifer	4
+Pea Ridge	PERI71	1	5/16/2008	Hardwood	3
+Pea Ridge	PERI71	1	5/22/2021	Hardwood	9
+Pea Ridge	PERI71	1	5/25/2016	Conifer	3
+Pea Ridge	PERI71	1	5/25/2016	Hardwood	1
+Pea Ridge	PERI71	1	5/25/2016	Total	4
+Pea Ridge	PERI72	1	5/15/2012	Conifer	5
+Pea Ridge	PERI72	1	5/15/2012	Hardwood	2
+Pea Ridge	PERI72	1	5/16/2008	Conifer	5
+Pea Ridge	PERI72	1	5/16/2008	Hardwood	1
+Pea Ridge	PERI72	1	5/18/2021	Hardwood	2
+Pea Ridge	PERI72	1	5/23/2016	Conifer	6
+Pea Ridge	PERI72	1	5/23/2016	Hardwood	2
+Pea Ridge	PERI72	1	5/23/2016	Total	8
+Pea Ridge	PERI73	1	5/23/2016	Total	0
+Pea Ridge	PERI74	1	5/12/2008	Hardwood	3
+Pea Ridge	PERI74	1	5/14/2012	Hardwood	1
+Pea Ridge	PERI74	1	5/19/2021	Hardwood	2
+Pea Ridge	PERI74	1	5/23/2016	Hardwood	2
+Pea Ridge	PERI74	1	5/23/2016	Total	2
+Pea Ridge	PERI75	1	5/12/2008	Hardwood	4
+Pea Ridge	PERI75	1	5/14/2012	Conifer	1
+Pea Ridge	PERI75	1	5/14/2012	Hardwood	5
+Pea Ridge	PERI75	1	5/24/2016	Conifer	1
+Pea Ridge	PERI75	1	5/24/2016	Hardwood	10
+Pea Ridge	PERI75	1	5/24/2016	Total	11
+Pea Ridge	PERI75	1	5/24/2021	Hardwood	6
+Pea Ridge	PERI76	1	5/12/2008	Hardwood	1
+Pea Ridge	PERI76	1	5/17/2012	Hardwood	2
+Pea Ridge	PERI76	1	5/24/2016	Hardwood	1
+Pea Ridge	PERI76	1	5/24/2016	Total	1
+Pea Ridge	PERI76	1	5/24/2021	Hardwood	4
+Pea Ridge	PERI77	1	5/17/2012	Hardwood	10
+Pea Ridge	PERI77	1	5/18/2008	Hardwood	9
+Pea Ridge	PERI77	1	5/20/2021	Hardwood	6
+Pea Ridge	PERI77	1	5/24/2016	Hardwood	5
+Pea Ridge	PERI77	1	5/24/2016	Total	5
+Pea Ridge	PERI78	1	5/19/2021	Hardwood	1
+Pea Ridge	PERI78	1	5/24/2016	Total	0
+Pea Ridge	PERI79	1	5/24/2016	Total	0
+Pea Ridge	PERI8	1	5/14/2008	Hardwood	10
+Pea Ridge	PERI8	1	5/17/2016	Hardwood	11
+Pea Ridge	PERI8	1	5/17/2016	Total	11
+Pea Ridge	PERI8	1	5/17/2021	Hardwood	12
+Pea Ridge	PERI8	1	5/23/2012	Hardwood	11
+Pea Ridge	PERI80	1	5/13/2008	Conifer	1
+Pea Ridge	PERI80	1	5/13/2008	Hardwood	1
+Pea Ridge	PERI80	1	5/15/2012	Conifer	1
+Pea Ridge	PERI80	1	5/15/2012	Hardwood	4
+Pea Ridge	PERI80	1	5/20/2021	Hardwood	8
+Pea Ridge	PERI80	1	5/23/2016	Hardwood	7
+Pea Ridge	PERI80	1	5/23/2016	Total	7
+Pea Ridge	PERI81	1	5/15/2012	Hardwood	14
+Pea Ridge	PERI81	1	5/16/2008	Hardwood	13
+Pea Ridge	PERI81	1	5/22/2021	Hardwood	17
+Pea Ridge	PERI81	1	5/25/2016	Hardwood	9
+Pea Ridge	PERI81	1	5/25/2016	Total	9
+Pea Ridge	PERI82	1	5/23/2016	Total	0
+Pea Ridge	PERI83	1	5/23/2016	Total	0
+Pea Ridge	PERI84	1	5/12/2008	Hardwood	3
+Pea Ridge	PERI84	1	5/14/2012	Hardwood	4
+Pea Ridge	PERI84	1	5/22/2021	Conifer	1
+Pea Ridge	PERI84	1	5/22/2021	Hardwood	3
+Pea Ridge	PERI84	1	5/23/2016	Hardwood	5
+Pea Ridge	PERI84	1	5/23/2016	Total	5
+Pea Ridge	PERI85	1	5/23/2016	Total	0
+Pea Ridge	PERI86	1	5/13/2008	Hardwood	1
+Pea Ridge	PERI86	1	5/16/2012	Hardwood	4
+Pea Ridge	PERI86	1	5/19/2021	Hardwood	1
+Pea Ridge	PERI86	1	5/23/2016	Hardwood	2
+Pea Ridge	PERI86	1	5/23/2016	Total	2
+Pea Ridge	PERI87	1	5/13/2008	Hardwood	5
+Pea Ridge	PERI87	1	5/16/2012	Hardwood	5
+Pea Ridge	PERI87	1	5/20/2021	Hardwood	7
+Pea Ridge	PERI87	1	5/23/2016	Hardwood	5
+Pea Ridge	PERI87	1	5/23/2016	Total	5
+Pea Ridge	PERI88	1	5/13/2008	Conifer	1
+Pea Ridge	PERI88	1	5/13/2008	Hardwood	6
+Pea Ridge	PERI88	1	5/15/2012	Conifer	5
+Pea Ridge	PERI88	1	5/15/2012	Hardwood	6
+Pea Ridge	PERI88	1	5/22/2021	Hardwood	6
+Pea Ridge	PERI88	1	5/25/2016	Conifer	2
+Pea Ridge	PERI88	1	5/25/2016	Hardwood	8
+Pea Ridge	PERI88	1	5/25/2016	Total	10
+Pea Ridge	PERI89	1	5/15/2012	Hardwood	1
+Pea Ridge	PERI89	1	5/16/2008	Hardwood	1
+Pea Ridge	PERI89	1	5/18/2021	Hardwood	3
+Pea Ridge	PERI89	1	5/23/2016	Hardwood	1
+Pea Ridge	PERI89	1	5/23/2016	Total	1
+Pea Ridge	PERI9	1	5/17/2016	Hardwood	9
+Pea Ridge	PERI9	1	5/17/2016	Total	9
+Pea Ridge	PERI9	1	5/17/2021	Hardwood	15
+Pea Ridge	PERI9	1	5/18/2008	Hardwood	11
+Pea Ridge	PERI9	1	5/23/2012	Hardwood	11
+Pea Ridge	PERI90	1	5/23/2016	Total	0
+Pea Ridge	PERI91	1	5/12/2008	Hardwood	1
+Pea Ridge	PERI91	1	5/14/2012	Hardwood	1
+Pea Ridge	PERI91	1	5/23/2016	Hardwood	1
+Pea Ridge	PERI91	1	5/23/2016	Total	1
+Pea Ridge	PERI92	1	5/13/2008	Hardwood	2
+Pea Ridge	PERI92	1	5/16/2012	Hardwood	4
+Pea Ridge	PERI92	1	5/19/2021	Hardwood	4
+Pea Ridge	PERI92	1	5/23/2016	Hardwood	5
+Pea Ridge	PERI92	1	5/23/2016	Total	5
+Pea Ridge	PERI93	1	5/13/2008	Hardwood	7
+Pea Ridge	PERI93	1	5/16/2012	Hardwood	10
+Pea Ridge	PERI93	1	5/20/2021	Hardwood	14
+Pea Ridge	PERI93	1	5/23/2016	Hardwood	9
+Pea Ridge	PERI93	1	5/23/2016	Total	9
+Pea Ridge	PERI94	1	5/13/2008	Hardwood	9
+Pea Ridge	PERI94	1	5/15/2012	Hardwood	10
+Pea Ridge	PERI94	1	5/18/2021	Hardwood	13
+Pea Ridge	PERI94	1	5/23/2016	Hardwood	11
+Pea Ridge	PERI94	1	5/23/2016	Total	11
+Pea Ridge	PERI95	1	5/13/2008	Hardwood	4
+Pea Ridge	PERI95	1	5/14/2012	Hardwood	4
+Pea Ridge	PERI95	1	5/16/2016	Hardwood	8
+Pea Ridge	PERI95	1	5/16/2016	Total	8
+Pea Ridge	PERI95	1	5/18/2021	Hardwood	8
+Pea Ridge	PERI96	1	5/13/2008	Conifer	2
+Pea Ridge	PERI96	1	5/13/2008	Hardwood	3
+Pea Ridge	PERI96	1	5/16/2012	Conifer	1
+Pea Ridge	PERI96	1	5/16/2012	Hardwood	5
+Pea Ridge	PERI96	1	5/18/2021	Hardwood	9
+Pea Ridge	PERI96	1	5/23/2016	Conifer	1
+Pea Ridge	PERI96	1	5/23/2016	Hardwood	4
+Pea Ridge	PERI96	1	5/23/2016	Total	5
+Pea Ridge	PERI97	1	5/13/2008	Hardwood	10
+Pea Ridge	PERI97	1	5/16/2012	Hardwood	13
+Pea Ridge	PERI97	1	5/18/2021	Hardwood	12
+Pea Ridge	PERI97	1	5/23/2016	Hardwood	13
+Pea Ridge	PERI97	1	5/23/2016	Total	13
+Pea Ridge	PERI98	1	5/16/2008	Hardwood	9
+Pea Ridge	PERI98	1	5/21/2012	Hardwood	8
+Pea Ridge	PERI98	1	5/22/2021	Hardwood	7
+Pea Ridge	PERI98	1	5/25/2016	Hardwood	2
+Pea Ridge	PERI98	1	5/25/2016	Total	2
+Pea Ridge	PERI99	1	5/16/2008	Hardwood	8
+Pea Ridge	PERI99	1	5/21/2012	Hardwood	8
+Pea Ridge	PERI99	1	5/22/2021	Hardwood	8
+Pea Ridge	PERI99	1	5/25/2016	Hardwood	2
+Pea Ridge	PERI99	1	5/25/2016	Total	2
+Pipestone	PIPE1	1	5/26/2017	Total	0
+Pipestone	PIPE10	1	5/26/2017	Total	0
+Pipestone	PIPE11	1	5/26/2017	Total	0
+Pipestone	PIPE12	1	5/26/2017	Total	0
+Pipestone	PIPE13	1	5/26/2017	Total	0
+Pipestone	PIPE14	1	5/26/2017	Total	0
+Pipestone	PIPE15	1	5/26/2017	Total	0
+Pipestone	PIPE16	1	5/26/2017	Total	0
+Pipestone	PIPE17	1	5/26/2017	Total	0
+Pipestone	PIPE18	1	5/26/2017	Total	0
+Pipestone	PIPE19	1	5/23/2022	Hardwood	1
+Pipestone	PIPE19	1	5/26/2017	Total	0
+Pipestone	PIPE2	1	5/26/2017	Total	0
+Pipestone	PIPE20	1	5/26/2017	Total	0
+Pipestone	PIPE21	1	5/15/2009	Hardwood	1
+Pipestone	PIPE21	1	5/24/2022	Hardwood	1
+Pipestone	PIPE21	1	5/26/2017	Hardwood	1
+Pipestone	PIPE21	1	5/26/2017	Total	1
+Pipestone	PIPE22	1	5/26/2017	Total	0
+Pipestone	PIPE23	1	5/26/2017	Total	0
+Pipestone	PIPE24	1	5/26/2017	Total	0
+Pipestone	PIPE25	1	5/14/2009	Hardwood	1
+Pipestone	PIPE25	1	5/26/2017	Total	0
+Pipestone	PIPE26	1	5/26/2017	Total	0
+Pipestone	PIPE27	1	5/15/2009	Hardwood	5
+Pipestone	PIPE27	1	5/15/2013	Hardwood	3
+Pipestone	PIPE27	1	5/24/2022	Hardwood	4
+Pipestone	PIPE27	1	5/26/2017	Hardwood	5
+Pipestone	PIPE27	1	5/26/2017	Total	5
+Pipestone	PIPE28	1	5/16/2009	Hardwood	11
+Pipestone	PIPE28	1	5/24/2022	Hardwood	12
+Pipestone	PIPE28	1	5/26/2017	Hardwood	10
+Pipestone	PIPE28	1	5/26/2017	Total	10
+Pipestone	PIPE29	1	5/23/2022	Hardwood	1
+Pipestone	PIPE29	1	5/26/2017	Hardwood	2
+Pipestone	PIPE29	1	5/26/2017	Total	2
+Pipestone	PIPE3	1	5/26/2017	Total	0
+Pipestone	PIPE30	1	5/26/2017	Total	0
+Pipestone	PIPE31	1	5/26/2017	Total	0
+Pipestone	PIPE32	1	5/26/2017	Total	1
+Pipestone	PIPE33	1	5/14/2009	Hardwood	1
+Pipestone	PIPE33	1	5/26/2017	Total	0
+Pipestone	PIPE34	1	5/23/2022	Hardwood	1
+Pipestone	PIPE34	1	5/26/2017	Hardwood	1
+Pipestone	PIPE34	1	5/26/2017	Total	1
+Pipestone	PIPE35	1	5/26/2017	Total	0
+Pipestone	PIPE36	1	5/26/2017	Total	0
+Pipestone	PIPE37	1	5/26/2017	Total	0
+Pipestone	PIPE38	1	5/26/2017	Total	0
+Pipestone	PIPE39	1	5/14/2009	Hardwood	2
+Pipestone	PIPE39	1	5/24/2022	Hardwood	1
+Pipestone	PIPE39	1	5/26/2017	Hardwood	2
+Pipestone	PIPE39	1	5/26/2017	Total	2
+Pipestone	PIPE4	1	5/15/2009	Hardwood	2
+Pipestone	PIPE4	1	5/23/2022	Hardwood	2
+Pipestone	PIPE4	1	5/26/2017	Hardwood	5
+Pipestone	PIPE4	1	5/26/2017	Total	5
+Pipestone	PIPE40	1	5/15/2013	Hardwood	3
+Pipestone	PIPE40	1	5/24/2022	Hardwood	4
+Pipestone	PIPE40	1	5/26/2017	Hardwood	2
+Pipestone	PIPE40	1	5/26/2017	Total	2
+Pipestone	PIPE41	1	5/26/2017	Total	0
+Pipestone	PIPE42	1	5/26/2017	Total	0
+Pipestone	PIPE43	1	5/26/2017	Total	0
+Pipestone	PIPE44	1	5/26/2017	Total	0
+Pipestone	PIPE45	1	5/26/2017	Total	0
+Pipestone	PIPE46	1	5/26/2017	Total	0
+Pipestone	PIPE47	1	5/26/2017	Total	0
+Pipestone	PIPE48	1	5/26/2017	Total	0
+Pipestone	PIPE49	1	5/26/2017	Total	0
+Pipestone	PIPE5	1	5/26/2017	Total	0
+Pipestone	PIPE50	1	5/26/2017	Total	0
+Pipestone	PIPE51	1	5/26/2017	Total	0
+Pipestone	PIPE52	1	5/26/2017	Total	0
+Pipestone	PIPE53	1	5/26/2017	Total	0
+Pipestone	PIPE54	1	5/26/2017	Total	0
+Pipestone	PIPE55	1	5/26/2017	Total	0
+Pipestone	PIPE56	1	5/26/2017	Total	0
+Pipestone	PIPE57	1	5/26/2017	Total	0
+Pipestone	PIPE58	1	5/14/2009	Hardwood	7
+Pipestone	PIPE58	1	5/15/2013	Hardwood	2
+Pipestone	PIPE58	1	5/23/2022	Hardwood	7
+Pipestone	PIPE58	1	5/26/2017	Hardwood	4
+Pipestone	PIPE58	1	5/26/2017	Total	4
+Pipestone	PIPE59	1	5/26/2017	Total	0
+Pipestone	PIPE6	1	5/26/2017	Total	0
+Pipestone	PIPE60	1	5/26/2017	Total	0
+Pipestone	PIPE61	1	5/26/2017	Total	0
+Pipestone	PIPE62	1	5/26/2017	Total	0
+Pipestone	PIPE63	1	5/26/2017	Total	0
+Pipestone	PIPE64	1	5/26/2017	Total	0
+Pipestone	PIPE65	1	5/26/2017	Total	0
+Pipestone	PIPE66	1	5/26/2017	Total	0
+Pipestone	PIPE67	1	5/26/2017	Total	0
+Pipestone	PIPE68	1	5/26/2017	Total	0
+Pipestone	PIPE7	1	5/26/2017	Total	0
+Pipestone	PIPE8	1	5/26/2017	Total	0
+Pipestone	PIPE9	1	5/15/2009	Hardwood	11
+Pipestone	PIPE9	1	5/23/2022	Hardwood	20
+Pipestone	PIPE9	1	5/26/2017	Hardwood	13
+Pipestone	PIPE9	1	5/26/2017	Total	13
+Tallgrass Prairie	TAPR114	1	5/15/2010	Hardwood	1
+Tallgrass Prairie	TAPR114	1	5/21/2002	Hardwood	2
+Tallgrass Prairie	TAPR114	1	5/21/2005	Hardwood	1
+Tallgrass Prairie	TAPR114	1	5/23/2018	Hardwood	2
+Tallgrass Prairie	TAPR128	3	5/16/2006	Hardwood	1
+Tallgrass Prairie	TAPR130	1	5/22/2018	Hardwood	1
+Tallgrass Prairie	TAPR130	3	6/14/2002	Hardwood	1
+Tallgrass Prairie	TAPR139	2	6/8/2001	Hardwood	4
+Tallgrass Prairie	TAPR139	2	6/13/2002	Hardwood	4
+Tallgrass Prairie	TAPR139	2	5/23/2005	Hardwood	2
+Tallgrass Prairie	TAPR159	1	6/4/2008	Hardwood	7
+Tallgrass Prairie	TAPR159	1	5/19/2005	Hardwood	3
+Tallgrass Prairie	TAPR159	1	5/20/2006	Hardwood	7
+Tallgrass Prairie	TAPR159	1	5/20/2014	Hardwood	9
+Tallgrass Prairie	TAPR159	1	5/21/2007	Hardwood	5
+Tallgrass Prairie	TAPR159	1	5/22/2010	Hardwood	8
+Tallgrass Prairie	TAPR159	1	5/25/2001	Hardwood	4
+Tallgrass Prairie	TAPR159	1	5/25/2004	Hardwood	2
+Tallgrass Prairie	TAPR159	1	5/25/2018	Hardwood	10
+Tallgrass Prairie	TAPR159	1	5/30/2002	Hardwood	4
+Tallgrass Prairie	TAPR159	2	5/20/2006	Hardwood	1
+Tallgrass Prairie	TAPR159	2	5/25/2004	Hardwood	1
+Tallgrass Prairie	TAPR159	3	5/19/2005	Hardwood	13
+Tallgrass Prairie	TAPR159	3	5/20/2006	Hardwood	12
+Tallgrass Prairie	TAPR159	3	5/25/2001	Hardwood	10
+Tallgrass Prairie	TAPR159	3	5/25/2004	Hardwood	9
+Tallgrass Prairie	TAPR159	3	5/30/2002	Hardwood	15
+Tallgrass Prairie	TAPR159	4	5/19/2005	Hardwood	7
+Tallgrass Prairie	TAPR159	4	5/20/2006	Hardwood	8
+Tallgrass Prairie	TAPR159	4	5/25/2001	Hardwood	6
+Tallgrass Prairie	TAPR159	4	5/25/2004	Hardwood	2
+Tallgrass Prairie	TAPR159	4	5/30/2002	Hardwood	7
+Tallgrass Prairie	TAPR160	1	6/4/2008	Hardwood	4
+Tallgrass Prairie	TAPR160	1	5/19/2005	Hardwood	6
+Tallgrass Prairie	TAPR160	1	5/19/2014	Hardwood	4
+Tallgrass Prairie	TAPR160	1	5/20/2006	Hardwood	6
+Tallgrass Prairie	TAPR160	1	5/21/2007	Hardwood	2
+Tallgrass Prairie	TAPR160	1	5/22/2010	Hardwood	7
+Tallgrass Prairie	TAPR160	1	5/24/2001	Hardwood	5
+Tallgrass Prairie	TAPR160	1	5/25/2004	Hardwood	1
+Tallgrass Prairie	TAPR160	1	5/25/2018	Hardwood	10
+Tallgrass Prairie	TAPR160	1	5/30/2002	Hardwood	5
+Tallgrass Prairie	TAPR160	2	5/19/2005	Hardwood	4
+Tallgrass Prairie	TAPR160	2	5/20/2006	Hardwood	4
+Tallgrass Prairie	TAPR160	2	5/24/2001	Hardwood	3
+Tallgrass Prairie	TAPR160	2	5/30/2002	Hardwood	2
+Tallgrass Prairie	TAPR160	3	5/19/2005	Hardwood	7
+Tallgrass Prairie	TAPR160	3	5/20/2006	Hardwood	4
+Tallgrass Prairie	TAPR160	3	5/24/2001	Hardwood	5
+Tallgrass Prairie	TAPR160	3	5/25/2004	Hardwood	5
+Tallgrass Prairie	TAPR160	3	5/30/2002	Hardwood	3
+Tallgrass Prairie	TAPR160	4	5/19/2005	Hardwood	3
+Tallgrass Prairie	TAPR160	4	5/20/2006	Hardwood	5
+Tallgrass Prairie	TAPR160	4	5/24/2001	Hardwood	3
+Tallgrass Prairie	TAPR160	4	5/25/2004	Hardwood	8
+Tallgrass Prairie	TAPR161	1	6/4/2008	Hardwood	1
+Tallgrass Prairie	TAPR161	1	5/19/2005	Hardwood	1
+Tallgrass Prairie	TAPR161	1	5/20/2006	Hardwood	1
+Tallgrass Prairie	TAPR161	1	5/20/2014	Hardwood	2
+Tallgrass Prairie	TAPR161	1	5/21/2007	Hardwood	1
+Tallgrass Prairie	TAPR161	1	5/22/2010	Hardwood	2
+Tallgrass Prairie	TAPR161	1	5/24/2001	Hardwood	1
+Tallgrass Prairie	TAPR161	1	5/25/2004	Hardwood	1
+Tallgrass Prairie	TAPR161	1	5/25/2018	Hardwood	2
+Tallgrass Prairie	TAPR161	4	5/19/2005	Hardwood	4
+Tallgrass Prairie	TAPR161	4	5/20/2006	Hardwood	4
+Tallgrass Prairie	TAPR161	4	5/24/2001	Hardwood	6
+Tallgrass Prairie	TAPR161	4	5/25/2004	Hardwood	4
+Tallgrass Prairie	TAPR161	4	5/29/2002	Hardwood	5
+Tallgrass Prairie	TAPR162	1	6/4/2008	Hardwood	4
+Tallgrass Prairie	TAPR162	1	5/19/2005	Hardwood	5
+Tallgrass Prairie	TAPR162	1	5/20/2014	Hardwood	5
+Tallgrass Prairie	TAPR162	1	5/21/2007	Hardwood	2
+Tallgrass Prairie	TAPR162	1	5/22/2006	Hardwood	5
+Tallgrass Prairie	TAPR162	1	5/22/2010	Hardwood	3
+Tallgrass Prairie	TAPR162	1	5/24/2001	Hardwood	3
+Tallgrass Prairie	TAPR162	1	5/25/2004	Hardwood	2
+Tallgrass Prairie	TAPR162	1	5/25/2018	Hardwood	12
+Tallgrass Prairie	TAPR162	1	5/30/2002	Hardwood	5
+Tallgrass Prairie	TAPR162	2	5/19/2005	Hardwood	1
+Tallgrass Prairie	TAPR162	2	5/24/2001	Hardwood	1
+Tallgrass Prairie	TAPR162	2	5/30/2002	Hardwood	2
+Tallgrass Prairie	TAPR162	3	5/19/2005	Hardwood	12
+Tallgrass Prairie	TAPR162	3	5/22/2006	Hardwood	5
+Tallgrass Prairie	TAPR162	3	5/25/2004	Hardwood	9
+Tallgrass Prairie	TAPR162	4	5/19/2005	Hardwood	4
+Tallgrass Prairie	TAPR162	4	5/22/2006	Hardwood	5
+Tallgrass Prairie	TAPR162	4	5/24/2001	Hardwood	7
+Tallgrass Prairie	TAPR162	4	5/25/2004	Hardwood	4
+Tallgrass Prairie	TAPR162	4	5/30/2002	Hardwood	7
+Tallgrass Prairie	TAPR163	1	6/3/2002	Hardwood	4
+Tallgrass Prairie	TAPR163	1	6/4/2008	Hardwood	3
+Tallgrass Prairie	TAPR163	1	5/19/2005	Hardwood	2
+Tallgrass Prairie	TAPR163	1	5/20/2014	Hardwood	2
+Tallgrass Prairie	TAPR163	1	5/21/2007	Hardwood	3
+Tallgrass Prairie	TAPR163	1	5/22/2006	Hardwood	2
+Tallgrass Prairie	TAPR163	1	5/22/2010	Hardwood	2
+Tallgrass Prairie	TAPR163	1	5/24/2001	Hardwood	3
+Tallgrass Prairie	TAPR163	1	5/25/2004	Hardwood	2
+Tallgrass Prairie	TAPR163	1	5/25/2018	Hardwood	6
+Tallgrass Prairie	TAPR163	2	6/3/2002	Hardwood	7
+Tallgrass Prairie	TAPR163	2	5/19/2005	Hardwood	9
+Tallgrass Prairie	TAPR163	2	5/22/2006	Hardwood	11
+Tallgrass Prairie	TAPR163	2	5/24/2001	Hardwood	7
+Tallgrass Prairie	TAPR163	2	5/25/2004	Hardwood	6
+Tallgrass Prairie	TAPR163	4	6/3/2002	Hardwood	9
+Tallgrass Prairie	TAPR163	4	5/19/2005	Hardwood	7
+Tallgrass Prairie	TAPR163	4	5/22/2006	Hardwood	5
+Tallgrass Prairie	TAPR163	4	5/24/2001	Hardwood	7
+Tallgrass Prairie	TAPR164	1	6/1/2002	Hardwood	10
+Tallgrass Prairie	TAPR164	1	6/5/2008	Hardwood	10
+Tallgrass Prairie	TAPR164	1	6/7/2001	Hardwood	10
+Tallgrass Prairie	TAPR164	1	5/17/2005	Hardwood	9
+Tallgrass Prairie	TAPR164	1	5/17/2007	Hardwood	9
+Tallgrass Prairie	TAPR164	1	5/17/2014	Hardwood	5
+Tallgrass Prairie	TAPR164	1	5/18/2006	Hardwood	12
+Tallgrass Prairie	TAPR164	1	5/22/2018	Hardwood	10
+Tallgrass Prairie	TAPR164	1	5/23/2010	Hardwood	13
+Tallgrass Prairie	TAPR164	2	6/1/2002	Hardwood	5
+Tallgrass Prairie	TAPR164	2	6/7/2001	Hardwood	5
+Tallgrass Prairie	TAPR164	2	5/17/2005	Hardwood	3
+Tallgrass Prairie	TAPR164	2	5/18/2006	Hardwood	3
+Tallgrass Prairie	TAPR165	1	6/1/2002	Hardwood	9
+Tallgrass Prairie	TAPR165	1	6/5/2008	Hardwood	13
+Tallgrass Prairie	TAPR165	1	6/7/2001	Hardwood	6
+Tallgrass Prairie	TAPR165	1	5/17/2007	Hardwood	11
+Tallgrass Prairie	TAPR165	1	5/17/2014	Hardwood	8
+Tallgrass Prairie	TAPR165	1	5/18/2006	Hardwood	9
+Tallgrass Prairie	TAPR165	1	5/20/2005	Hardwood	14
+Tallgrass Prairie	TAPR165	1	5/22/2018	Hardwood	16
+Tallgrass Prairie	TAPR165	1	5/23/2010	Hardwood	15
+Tallgrass Prairie	TAPR166	1	6/1/2002	Hardwood	8
+Tallgrass Prairie	TAPR166	1	6/5/2008	Hardwood	8
+Tallgrass Prairie	TAPR166	1	6/7/2001	Hardwood	8
+Tallgrass Prairie	TAPR166	1	5/17/2007	Hardwood	8
+Tallgrass Prairie	TAPR166	1	5/17/2014	Hardwood	9
+Tallgrass Prairie	TAPR166	1	5/18/2006	Hardwood	8
+Tallgrass Prairie	TAPR166	1	5/20/2005	Hardwood	7
+Tallgrass Prairie	TAPR166	1	5/22/2018	Hardwood	8
+Tallgrass Prairie	TAPR166	1	5/23/2010	Hardwood	10
+Tallgrass Prairie	TAPR166	1	5/24/2004	Hardwood	4
+Tallgrass Prairie	TAPR166	2	6/1/2002	Hardwood	10
+Tallgrass Prairie	TAPR166	2	6/7/2001	Hardwood	9
+Tallgrass Prairie	TAPR166	2	5/18/2006	Hardwood	8
+Tallgrass Prairie	TAPR166	2	5/20/2005	Hardwood	10
+Tallgrass Prairie	TAPR166	2	5/24/2004	Hardwood	10
+Tallgrass Prairie	TAPR167	1	6/1/2002	Hardwood	14
+Tallgrass Prairie	TAPR167	1	6/5/2008	Hardwood	14
+Tallgrass Prairie	TAPR167	1	6/7/2001	Hardwood	12
+Tallgrass Prairie	TAPR167	1	5/17/2007	Hardwood	13
+Tallgrass Prairie	TAPR167	1	5/17/2014	Hardwood	10
+Tallgrass Prairie	TAPR167	1	5/18/2006	Hardwood	12
+Tallgrass Prairie	TAPR167	1	5/20/2005	Hardwood	14
+Tallgrass Prairie	TAPR167	1	5/22/2018	Hardwood	14
+Tallgrass Prairie	TAPR167	1	5/24/2004	Hardwood	10
+Tallgrass Prairie	TAPR167	1	5/24/2010	Hardwood	13
+Tallgrass Prairie	TAPR168	1	6/1/2002	Hardwood	8
+Tallgrass Prairie	TAPR168	1	6/5/2008	Hardwood	11
+Tallgrass Prairie	TAPR168	1	6/7/2001	Hardwood	10
+Tallgrass Prairie	TAPR168	1	5/17/2014	Hardwood	11
+Tallgrass Prairie	TAPR168	1	5/18/2006	Hardwood	14
+Tallgrass Prairie	TAPR168	1	5/20/2005	Hardwood	10
+Tallgrass Prairie	TAPR168	1	5/22/2007	Hardwood	12
+Tallgrass Prairie	TAPR168	1	5/22/2018	Hardwood	13
+Tallgrass Prairie	TAPR168	1	5/24/2004	Hardwood	9
+Tallgrass Prairie	TAPR168	1	5/24/2010	Hardwood	13
+Tallgrass Prairie	TAPR168	4	6/1/2002	Hardwood	12
+Tallgrass Prairie	TAPR168	4	6/7/2001	Hardwood	11
+Tallgrass Prairie	TAPR168	4	5/18/2006	Hardwood	5
+Tallgrass Prairie	TAPR168	4	5/20/2005	Hardwood	18
+Tallgrass Prairie	TAPR168	4	5/24/2004	Hardwood	7
+Tallgrass Prairie	TAPR169	1	6/1/2002	Hardwood	7
+Tallgrass Prairie	TAPR169	1	6/5/2008	Hardwood	8
+Tallgrass Prairie	TAPR169	1	6/7/2001	Hardwood	10
+Tallgrass Prairie	TAPR169	1	5/17/2014	Hardwood	9
+Tallgrass Prairie	TAPR169	1	5/18/2006	Hardwood	9
+Tallgrass Prairie	TAPR169	1	5/20/2005	Hardwood	12
+Tallgrass Prairie	TAPR169	1	5/22/2007	Hardwood	12
+Tallgrass Prairie	TAPR169	1	5/22/2018	Hardwood	19
+Tallgrass Prairie	TAPR169	1	5/24/2010	Hardwood	11
+Tallgrass Prairie	TAPR169	1	5/26/2004	Hardwood	11
+Tallgrass Prairie	TAPR169	4	6/1/2002	Hardwood	4
+Tallgrass Prairie	TAPR169	4	6/7/2001	Hardwood	12
+Tallgrass Prairie	TAPR169	4	5/18/2006	Hardwood	11
+Tallgrass Prairie	TAPR169	4	5/20/2005	Hardwood	18
+Tallgrass Prairie	TAPR169	4	5/26/2004	Hardwood	13
+Tallgrass Prairie	TAPR170	1	6/1/2002	Hardwood	8
+Tallgrass Prairie	TAPR170	1	6/5/2008	Hardwood	10
+Tallgrass Prairie	TAPR170	1	6/7/2001	Hardwood	17
+Tallgrass Prairie	TAPR170	1	5/17/2014	Hardwood	10
+Tallgrass Prairie	TAPR170	1	5/18/2006	Hardwood	10
+Tallgrass Prairie	TAPR170	1	5/20/2005	Hardwood	13
+Tallgrass Prairie	TAPR170	1	5/22/2007	Hardwood	11
+Tallgrass Prairie	TAPR170	1	5/22/2018	Hardwood	11
+Tallgrass Prairie	TAPR170	1	5/24/2010	Hardwood	10
+Tallgrass Prairie	TAPR170	1	5/26/2004	Hardwood	11
+Tallgrass Prairie	TAPR170	3	5/20/2005	Hardwood	7
+Tallgrass Prairie	TAPR170	3	5/26/2004	Hardwood	1
+Tallgrass Prairie	TAPR170	4	6/1/2002	Hardwood	12
+Tallgrass Prairie	TAPR170	4	6/7/2001	Hardwood	12
+Tallgrass Prairie	TAPR170	4	5/18/2006	Hardwood	7
+Tallgrass Prairie	TAPR170	4	5/20/2005	Hardwood	13
+Tallgrass Prairie	TAPR170	4	5/26/2004	Hardwood	1
+Tallgrass Prairie	TAPR171	1	6/1/2002	Hardwood	11
+Tallgrass Prairie	TAPR171	1	6/5/2008	Hardwood	11
+Tallgrass Prairie	TAPR171	1	6/7/2001	Hardwood	12
+Tallgrass Prairie	TAPR171	1	5/17/2014	Hardwood	11
+Tallgrass Prairie	TAPR171	1	5/18/2006	Hardwood	15
+Tallgrass Prairie	TAPR171	1	5/20/2005	Hardwood	16
+Tallgrass Prairie	TAPR171	1	5/21/2018	Hardwood	12
+Tallgrass Prairie	TAPR171	1	5/22/2007	Hardwood	12
+Tallgrass Prairie	TAPR171	1	5/24/2010	Hardwood	17
+Tallgrass Prairie	TAPR171	1	5/27/2004	Hardwood	9
+Tallgrass Prairie	TAPR172	1	6/5/2008	Hardwood	10
+Tallgrass Prairie	TAPR172	1	6/7/2001	Hardwood	12
+Tallgrass Prairie	TAPR172	1	5/17/2014	Hardwood	8
+Tallgrass Prairie	TAPR172	1	5/18/2006	Hardwood	9
+Tallgrass Prairie	TAPR172	1	5/18/2007	Hardwood	12
+Tallgrass Prairie	TAPR172	1	5/20/2005	Hardwood	8
+Tallgrass Prairie	TAPR172	1	5/21/2018	Hardwood	16
+Tallgrass Prairie	TAPR172	1	5/24/2010	Hardwood	10
+Tallgrass Prairie	TAPR172	1	5/27/2004	Hardwood	11
+Tallgrass Prairie	TAPR172	1	5/31/2002	Hardwood	12
+Tallgrass Prairie	TAPR172	3	6/7/2001	Hardwood	5
+Tallgrass Prairie	TAPR172	3	5/18/2006	Hardwood	6
+Tallgrass Prairie	TAPR172	3	5/20/2005	Hardwood	11
+Tallgrass Prairie	TAPR172	3	5/31/2002	Hardwood	8
+Tallgrass Prairie	TAPR172	4	6/7/2001	Hardwood	3
+Tallgrass Prairie	TAPR172	4	5/18/2006	Hardwood	20
+Tallgrass Prairie	TAPR172	4	5/20/2005	Hardwood	8
+Tallgrass Prairie	TAPR172	4	5/31/2002	Hardwood	11
+Tallgrass Prairie	TAPR173	1	6/5/2008	Hardwood	13
+Tallgrass Prairie	TAPR173	1	6/9/2001	Hardwood	10
+Tallgrass Prairie	TAPR173	1	5/17/2014	Hardwood	8
+Tallgrass Prairie	TAPR173	1	5/18/2006	Hardwood	16
+Tallgrass Prairie	TAPR173	1	5/18/2007	Hardwood	12
+Tallgrass Prairie	TAPR173	1	5/20/2005	Hardwood	11
+Tallgrass Prairie	TAPR173	1	5/21/2018	Hardwood	12
+Tallgrass Prairie	TAPR173	1	5/24/2010	Hardwood	15
+Tallgrass Prairie	TAPR173	1	5/27/2004	Hardwood	7
+Tallgrass Prairie	TAPR173	1	5/31/2002	Hardwood	7
+Tallgrass Prairie	TAPR173	2	6/9/2001	Hardwood	14
+Tallgrass Prairie	TAPR173	2	5/18/2006	Hardwood	9
+Tallgrass Prairie	TAPR173	2	5/20/2005	Hardwood	18
+Tallgrass Prairie	TAPR173	2	5/27/2004	Hardwood	8
+Tallgrass Prairie	TAPR173	2	5/31/2002	Hardwood	7
+Tallgrass Prairie	TAPR173	4	6/9/2001	Hardwood	8
+Tallgrass Prairie	TAPR173	4	5/20/2005	Hardwood	5
+Tallgrass Prairie	TAPR174	1	6/5/2008	Hardwood	9
+Tallgrass Prairie	TAPR174	1	6/9/2001	Hardwood	9
+Tallgrass Prairie	TAPR174	1	5/13/2004	Hardwood	12
+Tallgrass Prairie	TAPR174	1	5/15/2010	Hardwood	9
+Tallgrass Prairie	TAPR174	1	5/17/2014	Hardwood	10
+Tallgrass Prairie	TAPR174	1	5/18/2007	Hardwood	9
+Tallgrass Prairie	TAPR174	1	5/20/2005	Hardwood	11
+Tallgrass Prairie	TAPR174	1	5/21/2018	Hardwood	11
+Tallgrass Prairie	TAPR174	1	5/22/2006	Hardwood	10
+Tallgrass Prairie	TAPR174	1	5/31/2002	Hardwood	4
+Tallgrass Prairie	TAPR174	2	6/9/2001	Hardwood	6
+Tallgrass Prairie	TAPR174	2	5/13/2004	Hardwood	5
+Tallgrass Prairie	TAPR174	2	5/20/2005	Hardwood	11
+Tallgrass Prairie	TAPR174	2	5/22/2006	Hardwood	9
+Tallgrass Prairie	TAPR174	2	5/31/2002	Hardwood	9
+Tallgrass Prairie	TAPR175	1	6/5/2008	Hardwood	2
+Tallgrass Prairie	TAPR175	1	6/8/2001	Hardwood	3
+Tallgrass Prairie	TAPR175	1	5/13/2004	Hardwood	3
+Tallgrass Prairie	TAPR175	1	5/15/2010	Hardwood	4
+Tallgrass Prairie	TAPR175	1	5/17/2014	Hardwood	7
+Tallgrass Prairie	TAPR175	1	5/18/2005	Hardwood	3
+Tallgrass Prairie	TAPR175	1	5/18/2007	Hardwood	3
+Tallgrass Prairie	TAPR175	1	5/22/2006	Hardwood	2
+Tallgrass Prairie	TAPR175	1	5/22/2018	Hardwood	6
+Tallgrass Prairie	TAPR175	1	5/31/2002	Hardwood	6
+Tallgrass Prairie	TAPR175	2	6/8/2001	Hardwood	9
+Tallgrass Prairie	TAPR175	2	5/13/2004	Hardwood	6
+Tallgrass Prairie	TAPR175	2	5/18/2005	Hardwood	7
+Tallgrass Prairie	TAPR175	2	5/22/2006	Hardwood	6
+Tallgrass Prairie	TAPR175	2	5/31/2002	Hardwood	5
+Tallgrass Prairie	TAPR175	4	6/8/2001	Hardwood	6
+Tallgrass Prairie	TAPR175	4	5/13/2004	Hardwood	6
+Tallgrass Prairie	TAPR175	4	5/18/2005	Hardwood	7
+Tallgrass Prairie	TAPR175	4	5/22/2006	Hardwood	5
+Tallgrass Prairie	TAPR175	4	5/31/2002	Hardwood	6
+Tallgrass Prairie	TAPR176	1	6/4/2008	Hardwood	9
+Tallgrass Prairie	TAPR176	1	5/19/2005	Hardwood	8
+Tallgrass Prairie	TAPR176	1	5/20/2006	Hardwood	11
+Tallgrass Prairie	TAPR176	1	5/20/2014	Hardwood	10
+Tallgrass Prairie	TAPR176	1	5/21/2007	Hardwood	6
+Tallgrass Prairie	TAPR176	1	5/22/2010	Hardwood	10
+Tallgrass Prairie	TAPR176	1	5/25/2001	Hardwood	6
+Tallgrass Prairie	TAPR176	1	5/25/2004	Hardwood	7
+Tallgrass Prairie	TAPR176	1	5/25/2018	Hardwood	14
+Tallgrass Prairie	TAPR176	1	5/30/2002	Hardwood	9
+Tallgrass Prairie	TAPR176	2	5/19/2005	Hardwood	8
+Tallgrass Prairie	TAPR176	2	5/20/2006	Hardwood	6
+Tallgrass Prairie	TAPR176	2	5/25/2001	Hardwood	4
+Tallgrass Prairie	TAPR176	2	5/25/2004	Hardwood	5
+Tallgrass Prairie	TAPR176	2	5/30/2002	Hardwood	6
+Tallgrass Prairie	TAPR176	4	5/30/2002	Hardwood	1
+Tallgrass Prairie	TAPR179	1	5/25/2018	Hardwood	2
+Tallgrass Prairie	TAPR179	3	5/30/2002	Hardwood	12
+Tallgrass Prairie	TAPR191	1	5/26/2018	Hardwood	1
+Tallgrass Prairie	TAPR2	1	6/4/2008	Hardwood	2
+Tallgrass Prairie	TAPR2	1	5/19/2014	Hardwood	1
+Tallgrass Prairie	TAPR2	1	5/21/2010	Hardwood	1
+Tallgrass Prairie	TAPR2	1	5/25/2001	Hardwood	3
+Tallgrass Prairie	TAPR2	1	5/25/2018	Hardwood	3
+Tallgrass Prairie	TAPR2	1	5/30/2002	Hardwood	2
+Tallgrass Prairie	TAPR2	2	5/25/2001	Hardwood	4
+Tallgrass Prairie	TAPR2	2	5/30/2002	Hardwood	10
+Tallgrass Prairie	TAPR217	1	5/15/2010	Hardwood	1
+Tallgrass Prairie	TAPR217	1	5/22/2018	Hardwood	1
+Tallgrass Prairie	TAPR226	4	5/28/2002	Hardwood	2
+Tallgrass Prairie	TAPR233	1	6/14/2002	Hardwood	1
+Tallgrass Prairie	TAPR233	1	5/17/2014	Hardwood	1
+Tallgrass Prairie	TAPR233	1	5/22/2018	Hardwood	2
+Tallgrass Prairie	TAPR233	1	5/23/2005	Hardwood	1
+Tallgrass Prairie	TAPR233	1	5/23/2010	Hardwood	1
+Tallgrass Prairie	TAPR233	2	5/23/2005	Hardwood	1
+Tallgrass Prairie	TAPR237	3	6/14/2002	Hardwood	2
+Tallgrass Prairie	TAPR248	1	5/17/2006	Hardwood	1
+Tallgrass Prairie	TAPR254	2	6/14/2002	Hardwood	10
+Tallgrass Prairie	TAPR260	1	6/12/2002	Hardwood	4
+Tallgrass Prairie	TAPR260	1	5/17/2006	Hardwood	5
+Tallgrass Prairie	TAPR260	2	6/12/2002	Hardwood	4
+Tallgrass Prairie	TAPR260	2	5/17/2006	Hardwood	4
+Tallgrass Prairie	TAPR88	1	5/21/2018	Hardwood	1
+Wilson's Creek	WICR1	1	6/8/2020	Conifer	0
+Wilson's Creek	WICR1	1	6/8/2020	Hardwood	0
+Wilson's Creek	WICR1	1	5/18/2016	Total	0
+Wilson's Creek	WICR10	1	6/1/2012	Conifer	3
+Wilson's Creek	WICR10	1	6/1/2012	Hardwood	8
+Wilson's Creek	WICR10	1	6/9/2020	Conifer	4
+Wilson's Creek	WICR10	1	6/9/2020	Hardwood	7
+Wilson's Creek	WICR10	1	5/19/2016	Conifer	3
+Wilson's Creek	WICR10	1	5/19/2016	Hardwood	7
+Wilson's Creek	WICR10	1	5/19/2016	Total	10
+Wilson's Creek	WICR10	1	5/22/2008	Conifer	2
+Wilson's Creek	WICR10	1	5/22/2008	Hardwood	4
+Wilson's Creek	WICR11	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR11	1	6/10/2020	Hardwood	11
+Wilson's Creek	WICR11	1	5/20/2008	Hardwood	8
+Wilson's Creek	WICR11	1	5/20/2016	Hardwood	8
+Wilson's Creek	WICR11	1	5/20/2016	Total	8
+Wilson's Creek	WICR11	1	5/29/2012	Hardwood	8
+Wilson's Creek	WICR12	1	6/1/2012	Conifer	1
+Wilson's Creek	WICR12	1	6/1/2012	Hardwood	1
+Wilson's Creek	WICR12	1	6/9/2020	Conifer	1
+Wilson's Creek	WICR12	1	6/9/2020	Hardwood	1
+Wilson's Creek	WICR12	1	5/19/2016	Conifer	1
+Wilson's Creek	WICR12	1	5/19/2016	Hardwood	1
+Wilson's Creek	WICR12	1	5/19/2016	Total	2
+Wilson's Creek	WICR12	1	5/22/2008	Conifer	1
+Wilson's Creek	WICR12	1	5/22/2008	Hardwood	1
+Wilson's Creek	WICR14	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR14	1	6/10/2020	Hardwood	2
+Wilson's Creek	WICR14	1	5/19/2016	Hardwood	1
+Wilson's Creek	WICR14	1	5/19/2016	Total	1
+Wilson's Creek	WICR15	1	6/1/2012	Hardwood	8
+Wilson's Creek	WICR15	1	6/9/2020	Conifer	2
+Wilson's Creek	WICR15	1	6/9/2020	Hardwood	6
+Wilson's Creek	WICR15	1	5/19/2016	Hardwood	12
+Wilson's Creek	WICR15	1	5/19/2016	Total	12
+Wilson's Creek	WICR15	1	5/22/2008	Hardwood	5
+Wilson's Creek	WICR16	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR16	1	6/10/2020	Hardwood	6
+Wilson's Creek	WICR16	1	5/20/2008	Hardwood	3
+Wilson's Creek	WICR16	1	5/20/2016	Hardwood	6
+Wilson's Creek	WICR16	1	5/20/2016	Total	6
+Wilson's Creek	WICR16	1	5/30/2012	Hardwood	3
+Wilson's Creek	WICR17	1	6/9/2020	Conifer	0
+Wilson's Creek	WICR17	1	6/9/2020	Hardwood	0
+Wilson's Creek	WICR17	1	5/19/2016	Total	0
+Wilson's Creek	WICR18	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR18	1	6/10/2020	Hardwood	0
+Wilson's Creek	WICR18	1	5/20/2016	Total	0
+Wilson's Creek	WICR19	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR19	1	6/10/2020	Hardwood	7
+Wilson's Creek	WICR19	1	5/19/2016	Hardwood	14
+Wilson's Creek	WICR19	1	5/19/2016	Total	14
+Wilson's Creek	WICR19	1	5/21/2008	Hardwood	14
+Wilson's Creek	WICR19	1	5/31/2012	Hardwood	12
+Wilson's Creek	WICR2	1	6/8/2020	Conifer	0
+Wilson's Creek	WICR2	1	6/8/2020	Hardwood	11
+Wilson's Creek	WICR2	1	5/19/2016	Hardwood	5
+Wilson's Creek	WICR2	1	5/19/2016	Total	5
+Wilson's Creek	WICR2	1	5/20/2008	Hardwood	8
+Wilson's Creek	WICR2	1	5/31/2012	Hardwood	10
+Wilson's Creek	WICR20	1	6/9/2020	Conifer	0
+Wilson's Creek	WICR20	1	6/9/2020	Hardwood	0
+Wilson's Creek	WICR20	1	5/19/2016	Total	0
+Wilson's Creek	WICR21	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR21	1	6/10/2020	Hardwood	6
+Wilson's Creek	WICR21	1	5/19/2016	Hardwood	4
+Wilson's Creek	WICR21	1	5/19/2016	Total	4
+Wilson's Creek	WICR21	1	5/21/2008	Hardwood	4
+Wilson's Creek	WICR21	1	5/29/2012	Hardwood	6
+Wilson's Creek	WICR22	1	6/9/2020	Conifer	0
+Wilson's Creek	WICR22	1	6/9/2020	Hardwood	0
+Wilson's Creek	WICR22	1	5/19/2016	Total	0
+Wilson's Creek	WICR23	1	6/8/2020	Conifer	0
+Wilson's Creek	WICR23	1	6/8/2020	Hardwood	0
+Wilson's Creek	WICR23	1	5/19/2016	Total	0
+Wilson's Creek	WICR24	1	6/11/2020	Conifer	0
+Wilson's Creek	WICR24	1	6/11/2020	Hardwood	7
+Wilson's Creek	WICR24	1	5/19/2016	Conifer	1
+Wilson's Creek	WICR24	1	5/19/2016	Hardwood	11
+Wilson's Creek	WICR24	1	5/19/2016	Total	12
+Wilson's Creek	WICR24	1	5/21/2008	Hardwood	8
+Wilson's Creek	WICR24	1	5/30/2012	Conifer	1
+Wilson's Creek	WICR24	1	5/30/2012	Hardwood	11
+Wilson's Creek	WICR25	1	6/9/2020	Conifer	0
+Wilson's Creek	WICR25	1	6/9/2020	Hardwood	8
+Wilson's Creek	WICR25	1	5/22/2008	Hardwood	5
+Wilson's Creek	WICR25	1	5/31/2012	Hardwood	10
+Wilson's Creek	WICR26	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR26	1	6/10/2020	Hardwood	14
+Wilson's Creek	WICR26	1	5/19/2016	Hardwood	13
+Wilson's Creek	WICR26	1	5/19/2016	Total	13
+Wilson's Creek	WICR26	1	5/21/2008	Hardwood	7
+Wilson's Creek	WICR26	1	5/29/2012	Hardwood	8
+Wilson's Creek	WICR27	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR27	1	6/10/2020	Hardwood	11
+Wilson's Creek	WICR27	1	5/19/2016	Conifer	1
+Wilson's Creek	WICR27	1	5/19/2016	Hardwood	12
+Wilson's Creek	WICR27	1	5/19/2016	Total	13
+Wilson's Creek	WICR27	1	5/22/2008	Conifer	1
+Wilson's Creek	WICR27	1	5/22/2008	Hardwood	7
+Wilson's Creek	WICR27	1	5/30/2012	Hardwood	21
+Wilson's Creek	WICR28	1	5/19/2016	Hardwood	2
+Wilson's Creek	WICR28	1	5/19/2016	Total	2
+Wilson's Creek	WICR28	1	5/21/2008	Hardwood	3
+Wilson's Creek	WICR28	1	5/29/2012	Hardwood	9
+Wilson's Creek	WICR29	1	6/11/2020	Conifer	0
+Wilson's Creek	WICR29	1	6/11/2020	Hardwood	9
+Wilson's Creek	WICR29	1	5/19/2016	Hardwood	7
+Wilson's Creek	WICR29	1	5/19/2016	Total	7
+Wilson's Creek	WICR29	1	5/21/2008	Hardwood	4
+Wilson's Creek	WICR3	1	6/8/2020	Conifer	4
+Wilson's Creek	WICR3	1	6/8/2020	Hardwood	3
+Wilson's Creek	WICR3	1	5/19/2016	Conifer	3
+Wilson's Creek	WICR3	1	5/19/2016	Hardwood	6
+Wilson's Creek	WICR3	1	5/19/2016	Total	9
+Wilson's Creek	WICR3	1	5/20/2008	Conifer	2
+Wilson's Creek	WICR3	1	5/20/2008	Hardwood	1
+Wilson's Creek	WICR3	1	5/29/2012	Conifer	1
+Wilson's Creek	WICR3	1	5/29/2012	Hardwood	6
+Wilson's Creek	WICR30	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR30	1	6/10/2020	Hardwood	0
+Wilson's Creek	WICR30	1	5/19/2016	Total	0
+Wilson's Creek	WICR31	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR31	1	6/10/2020	Hardwood	9
+Wilson's Creek	WICR31	1	5/19/2016	Hardwood	11
+Wilson's Creek	WICR31	1	5/19/2016	Total	11
+Wilson's Creek	WICR32	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR32	1	6/10/2020	Hardwood	0
+Wilson's Creek	WICR32	1	5/19/2016	Total	0
+Wilson's Creek	WICR33	1	6/11/2020	Conifer	2
+Wilson's Creek	WICR33	1	6/11/2020	Hardwood	10
+Wilson's Creek	WICR33	1	5/19/2016	Conifer	1
+Wilson's Creek	WICR33	1	5/19/2016	Hardwood	9
+Wilson's Creek	WICR33	1	5/19/2016	Total	10
+Wilson's Creek	WICR33	1	5/21/2008	Conifer	2
+Wilson's Creek	WICR33	1	5/21/2008	Hardwood	10
+Wilson's Creek	WICR33	1	5/30/2012	Conifer	2
+Wilson's Creek	WICR33	1	5/30/2012	Hardwood	8
+Wilson's Creek	WICR34	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR34	1	6/10/2020	Hardwood	0
+Wilson's Creek	WICR34	1	5/19/2016	Total	0
+Wilson's Creek	WICR35	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR35	1	6/10/2020	Hardwood	0
+Wilson's Creek	WICR35	1	5/19/2016	Total	0
+Wilson's Creek	WICR36	1	6/11/2020	Conifer	0
+Wilson's Creek	WICR36	1	6/11/2020	Hardwood	0
+Wilson's Creek	WICR36	1	5/19/2016	Total	0
+Wilson's Creek	WICR37	1	6/11/2020	Conifer	0
+Wilson's Creek	WICR37	1	6/11/2020	Hardwood	9
+Wilson's Creek	WICR37	1	5/19/2016	Hardwood	12
+Wilson's Creek	WICR37	1	5/19/2016	Total	12
+Wilson's Creek	WICR37	1	5/21/2008	Hardwood	8
+Wilson's Creek	WICR37	1	5/31/2012	Hardwood	8
+Wilson's Creek	WICR38	1	6/1/2012	Hardwood	1
+Wilson's Creek	WICR38	1	5/20/2016	Total	0
+Wilson's Creek	WICR4	1	6/9/2020	Conifer	0
+Wilson's Creek	WICR4	1	6/9/2020	Hardwood	3
+Wilson's Creek	WICR4	1	5/19/2016	Hardwood	3
+Wilson's Creek	WICR4	1	5/19/2016	Total	3
+Wilson's Creek	WICR4	1	5/20/2008	Hardwood	2
+Wilson's Creek	WICR4	1	5/29/2012	Hardwood	4
+Wilson's Creek	WICR5	1	6/8/2020	Conifer	1
+Wilson's Creek	WICR5	1	6/8/2020	Hardwood	7
+Wilson's Creek	WICR5	1	5/20/2008	Conifer	3
+Wilson's Creek	WICR5	1	5/20/2008	Hardwood	5
+Wilson's Creek	WICR5	1	5/20/2016	Conifer	1
+Wilson's Creek	WICR5	1	5/20/2016	Hardwood	6
+Wilson's Creek	WICR5	1	5/20/2016	Total	7
+Wilson's Creek	WICR5	1	5/31/2012	Conifer	1
+Wilson's Creek	WICR5	1	5/31/2012	Hardwood	11
+Wilson's Creek	WICR6	1	6/1/2012	Hardwood	7
+Wilson's Creek	WICR6	1	6/8/2020	Conifer	0
+Wilson's Creek	WICR6	1	6/8/2020	Hardwood	5
+Wilson's Creek	WICR6	1	5/20/2008	Hardwood	4
+Wilson's Creek	WICR6	1	5/20/2016	Hardwood	8
+Wilson's Creek	WICR6	1	5/20/2016	Total	8
+Wilson's Creek	WICR7	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR7	1	6/10/2020	Hardwood	5
+Wilson's Creek	WICR7	1	5/20/2008	Hardwood	6
+Wilson's Creek	WICR7	1	5/20/2016	Hardwood	8
+Wilson's Creek	WICR7	1	5/20/2016	Total	8
+Wilson's Creek	WICR7	1	5/29/2012	Hardwood	7
+Wilson's Creek	WICR8	1	6/10/2020	Conifer	0
+Wilson's Creek	WICR8	1	6/10/2020	Hardwood	0
+Wilson's Creek	WICR8	1	5/19/2016	Total	0
+Wilson's Creek	WICR9	1	6/1/2012	Hardwood	3
+Wilson's Creek	WICR9	1	6/8/2020	Conifer	0
+Wilson's Creek	WICR9	1	6/8/2020	Hardwood	2
+Wilson's Creek	WICR9	1	5/19/2016	Hardwood	3
+Wilson's Creek	WICR9	1	5/19/2016	Total	3
+Wilson's Creek	WICR9	1	5/20/2008	Hardwood	3
